@@ -138,7 +138,7 @@ delay	555917	A>B	Fabijoniškės–Baltupiai–Markučiai	1135	1134	-2.2	Didlauki
 delay	555917	B>A	Markučiai–Baltupiai–Fabijoniškės	1184	1184	-1	Arkikatedra	1194.9	3.5	Baltupiai	1216.2	10	Autobusai	10	07	2-703	1224	1226	1	0
 delay	555917	A>B	Fabijoniškės–Baltupiai–Markučiai	1256	1253	-0.80000001	Didlaukio st.	1265.4	4	Užupio st.	1291.2	10	Autobusai	10	07	2-703	1294	1297	1	0
 delay	555917	B>A	Markučiai–Baltupiai–Fabijoniškės	1299	1300	0.1	Kalvarijų turgus	1317.7	3.2	Baltupiai	1330	10	Autobusai	10	07	2-703	1338	1339	1	0
-missed	425919	A>B	Fabijoniškės–Baltupiai–Markučiai	1344	NULL	NULL	NULL	NULL	NULL	NULL	NULL	10	Autobusai	10	07		1382	NULL	NULL	NULL
+delay	555917	A>B	Fabijoniškės–Baltupiai–Markučiai	1344	1344	-1.2	Karaliaus Mindaugo tiltas	1369.6	0.69999999	Žalgirio st.	1362.9	10	Autobusai	10	07	2-703	1382	1381	0	0
 delay	556011	A>B	Fabijoniškės–Baltupiai–Markučiai	403	403	-4.1999998	Karaliaus Mindaugo tiltas	434	0.69999999	Antano Jonyno st.	406.20001	10	Autobusai	10	08	2-547	449	447	1	0
 delay	556011	B>A	Markučiai–Baltupiai–Fabijoniškės	454	454	-2.4000001	Antano Jonyno st.	496.5	1.3	Užupio st.	460.60001	10	Autobusai	10	08	2-547	500	498	0	0
 delay	556011	A>B	Fabijoniškės–Baltupiai–Markučiai	508	508	-3.8	Karaliaus Mindaugo tiltas	540.20001	0.80000001	Antano Jonyno st.	511.29999	10	Autobusai	10	08	2-547	555	553	1	0
@@ -712,7 +712,7 @@ delay	555630	A>B	Stotis–Nemėžis–Skaidiškės	1186	1188	0.69999999	Posūkis
 delay	555630	B>A	Skaidiškės–Nemėžis–Stotis	1221	1222	-1	Stadionas	1245.5	1.9	Stankutiškės	1228.2	16	Autobusai	16	03	2-2413	1251	1250	0	0
 delay	555630	A>B	Stotis–Nemėžis–Skaidiškės	1284	1285	-0.69999999	Posūkis	1303.8	0.5	Liepkalnis	1290.4	16	Autobusai	16	03	2-2413	1312	1312	0	0
 delay	555630	B>A	Skaidiškės–Nemėžis–Stotis	1319	1320	-0.60000002	Stadionas	1343.9	1.7	Stankutiškės	1326.1	16	Autobusai	16	03	2-2413	1349	1348	0	0
-missed	277804	A>B	Stotis–Nemėžis–Skaidiškės	1360	NULL	NULL	NULL	NULL	NULL	NULL	NULL	16	Autobusai	16	03		1388	NULL	NULL	NULL
+delay	555630	A>B	Stotis–Nemėžis–Skaidiškės	1360	1361	0.1	Posūkis	1380.5	1.5	Liepkalnis	1367.3	16	Autobusai	16	03	2-2413	1388	1389	0	0
 delay	555660	B>A	Antaviliai–Nemenčinės pl.–Antakalnis	316	319	-2.5	Nemenčinės plentas	337.70001	2.5999999	Antaviliai	319.39999	17	Autobusai	17	01	2-1840	343	341	0	0
 delay	555660	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	353	353	-1.2	Smėlynė	366.5	0.89999998	Šilas	375.89999	17	Autobusai	17	01	2-1840	380	380	0	0
 delay	555660	B>A	Antaviliai–Nemenčinės pl.–Antakalnis	380	381	-2.3	Saulėtekis	401	1.6	Jono Biliūno st.	383.89999	17	Autobusai	17	01	2-1840	407	405	0	0
@@ -744,7 +744,7 @@ delay	555660	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	1254	1254	-0.6999999
 delay	555660	B>A	Antaviliai–Nemenčinės pl.–Antakalnis	1278	1279	-1.3	Saulėtekis	1295	1.1	Šilas	1283.7	17	Autobusai	17	01	2-1840	1300	1299	0	0
 delay	555660	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	1310	1310	-0.69999999	Lakštingalų st.	1316.5	0.40000001	Nugalėtojų st.	1321	17	Autobusai	17	01	2-1840	1334	1334	0	0
 delay	555660	B>A	Antaviliai–Nemenčinės pl.–Antakalnis	1334	1335	-1	Saulėtekis	1351.3	1.2	Laurų st.	1338.3	17	Autobusai	17	01	2-1840	1356	1355	0	0
-missed	425938	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	1366	NULL	NULL	NULL	NULL	NULL	NULL	NULL	17	Autobusai	17	01		1390	NULL	NULL	NULL
+delay	555660	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	1366	1366	-0.89999998	Lakštingalų st.	1372.3	0.2	Nugalėtojų st.	1376.8	17	Autobusai	17	01	2-1840	1390	1390	0	0
 delay	555609	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	319	323	-1.3	Antaviliai	344.29999	4.1999998	Antakalnio žiedas	323.89999	17	Autobusai	17	02	2-10488	346	345	1	1
 delay	555609	B>A	Antaviliai–Nemenčinės pl.–Antakalnis	346	347	-2.4000001	Saulėtekis	366.89999	0.89999998	Antaviliai	347.70001	17	Autobusai	17	02	2-10488	373	371	0	0
 delay	555609	A>B	Antakalnis–Nemenčinės pl.–Antaviliai	383	383	-3.3	Antaviliai	406.29999	0.1	Nemenčinės plentas	386.10001	17	Autobusai	17	02	2-10488	410	407	1	0
@@ -1372,6 +1372,7 @@ delay	555661	A>B	Lazdynėliai–Lazdynai–Centras	1222	1223	-2.8	Parodų rūmai
 delay	555661	B>A	Centras–Lazdynai–Lazdynėliai	1252	1252	-1.8	Žaros st.	1280.8	2.0999999	Vingis	1263.4	21	Autobusai	21	01-Ž	2-453	1284	1283	0	0
 delay	555661	A>B	Lazdynėliai–Lazdynai–Centras	1294	1295	-3.0999999	Parodų rūmai	1307	0.69999999	Lazdynėliai	1294.7	21	Autobusai	21	01-Ž	2-453	1324	1322	1	0
 delay	555661	B>A	Centras–Lazdynai–Lazdynėliai	1324	1323	-2.8	Parodų rūmai	1341.1	-0.69999999	Vingis	1332.6	21	Autobusai	21	01-Ž	2-453	1356	1354	0	0
+delay	555661	A>B	Lazdynėliai–Lazdynai–Centras	1366	1366	-2.4000001	Ryto st.	1376	0.1	Lazdynėliai	1366.2	21	Autobusai	21	01-Ž	2-453	1396	1396	0	0
 delay	555784	A>B	Lazdynėliai–Lazdynai–Centras	354	355	-0.69999999	Vingis	378.20001	1.1	Žaros st.	356.5	21	Autobusai	21	02	2-1874	383	383	0	0
 delay	555784	B>A	Centras–Lazdynai–Lazdynėliai	383	384	-2.0999999	Žaros st.	411	2.7	Savanorių prospektas	396.89999	21	Autobusai	21	02	2-1874	415	413	0	0
 delay	555784	A>B	Lazdynėliai–Lazdynai–Centras	428	430	-0.80000001	Gerosios Vilties st.	448.10001	2.0999999	Mikalojaus Konstantino Čiurlionio st.	457.89999	21	Autobusai	21	02	2-1874	458	460	0	0
@@ -1397,6 +1398,7 @@ delay	555784	B>A	Centras–Lazdynai–Lazdynėliai	1199	1199	-1.6	Akacijų st.	1
 delay	555784	A>B	Lazdynėliai–Lazdynai–Centras	1261	1262	-0.69999999	Simono Konarskio st.	1287.2	1.1	Lazdynėliai	1262.1	21	Autobusai	21	02	2-1874	1291	1290	0	0
 delay	555784	B>A	Centras–Lazdynai–Lazdynėliai	1291	1291	-0.69999999	Akacijų st.	1317.2	3.5999999	Vingis	1303.9	21	Autobusai	21	02	2-1874	1323	1323	1	0
 delay	555784	A>B	Lazdynėliai–Lazdynai–Centras	1333	1334	-1	Simono Konarskio st.	1358.9	1.1	Žaros st.	1335.5	21	Autobusai	21	02	2-1874	1363	1362	0	0
+missed	425941	B>A	Centras–Lazdynai–Lazdynėliai	1363	NULL	NULL	NULL	NULL	NULL	NULL	NULL	21	Autobusai	21	02		1395	NULL	NULL	NULL
 delay	555889	A>B	Lazdynėliai–Lazdynai–Centras	375	378	0.40000001	Eigulių st.	394.39999	2.7	Oslo st.	380.5	21	Autobusai	21	03	2-247	405	406	0	0
 delay	555889	B>A	Centras–Lazdynai–Lazdynėliai	405	407	0	Žaros st.	435.20001	2.4000001	Savanorių prospektas	418.70001	21	Autobusai	21	03	2-247	437	437	0	0
 delay	555889	A>B	Lazdynėliai–Lazdynai–Centras	449	450	0.89999998	Parodų rūmai	466	6.9000001	Mikalojaus Konstantino Čiurlionio st.	483.70001	21	Autobusai	21	03	2-247	479	486	1	1
@@ -1601,6 +1603,7 @@ delay	555977	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	1206	1209	0.5
 delay	555977	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	1246	1247	0.80000001	Valkininkų st.	1246.8	2.8	Gedimino prospektas	1262	24	Autobusai	24	03	2-10681	1276	1279	0	0
 delay	555977	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	1283	1286	-2.8	Žemieji Paneriai	1313.5	2.4000001	Gedvydžių st.	1287	24	Autobusai	24	03	2-10681	1318	1315	0	0
 delay	555977	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	1323	1327	-0.5	Ukmergės st.	1343.5	3.8	Vaduvos st.	1327.8	24	Autobusai	24	03	2-10681	1353	1353	1	1
+missed	539474	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	1360	NULL	NULL	NULL	NULL	NULL	NULL	NULL	24	Autobusai	24	03		1395	NULL	NULL	NULL
 delay	555718	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	332	333	0	Ukmergės st.	353.79999	1.8	Gedimino prospektas	347.39999	24	Autobusai	24	04	2-1614	363	365	0	0
 delay	555718	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	370	371	-0.69999999	Žemieji Paneriai	404.10001	1.4	Takas	374.60001	24	Autobusai	24	04	2-1614	406	406	0	0
 delay	555718	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	411	413	0.30000001	Ukmergės st.	435	2.4000001	Vilkpėdės st.	422.10001	24	Autobusai	24	04	2-1614	444	446	0	0
@@ -2144,7 +2147,7 @@ delay	555770	A>B	Santariškės–Laisvės pr.–Stotis	1066	1067	-1.9	Liudo Giro
 delay	555770	B>A1	Stotis–Laisvės pr.–Santariškės (Santariškių žiedas)	1118	1118	-1.5	Vaivorykštės st.	1138.7	2.9000001	Jeruzalė	1166.5	2G	Autobusai	2G	07	2-2918	1170	1172	0	0
 delay	555770	A>B	Santariškės–Laisvės pr.–Stotis	1202	1202	-1.2	Žemynos st.	1217.3	0.5	Viršuliškės	1224.2	2G	Autobusai	2G	07	2-2918	1250	1250	0	0
 delay	555770	B>A1	Stotis–Laisvės pr.–Santariškės (Santariškių žiedas)	1252	1253	0.40000001	Savanorių prospektas	1264.3	2.9000001	Kalvarijos	1295.4	2G	Autobusai	2G	07	2-2918	1300	1302	0	0
-missed	425774	A>B	Santariškės–Laisvės pr.–Stotis	1343	NULL	NULL	NULL	NULL	NULL	NULL	NULL	2G	Autobusai	2G	07		1391	NULL	NULL	NULL
+delay	555770	A>B	Santariškės–Laisvės pr.–Stotis	1343	1343	-1.4	Rygos st.	1361.5	0.5	Vaikų ligoninė	1343.5	2G	Autobusai	2G	07	2-2918	1391	1391	0	0
 delay	556069	A>B	Santariškės–Laisvės pr.–Stotis	426	429	2.3	Vaikų ligoninė	428.39999	12.8	Gerosios Vilties st.	479	2G	Autobusai	2G	08	2-1503	479	491	1	1
 delay	556069	B>A	Stotis–Laisvės pr.–Santariškės	482	492	9.6999998	Spaudos rūmai	517.59998	11.5	Žemynos st.	527.09998	2G	Autobusai	2G	08	2-1503	533	544	1	1
 delay	556069	A>B	Santariškės–Laisvės pr.–Stotis	541	545	1.5	Kaimelio st.	558.20001	4.1999998	Vaikų ligoninė	545.29999	2G	Autobusai	2G	08	2-1503	593	596	1	1
@@ -2658,6 +2661,7 @@ delay	555694	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	117
 delay	555694	B>A	Pagubė–Naujaneriai–Balsiai–Kalvarijų–Žalgirio g.	1216	1217	-1.8	Kurklių st.	1233.7	0.1	Gulbinų st.	1218.7	36	Autobusai	36	01	2-10482	1260	1259	0	0
 delay	555694	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1265	1267	0.5	Gulbinų st.	1303.8	5.0999999	Kalvarijos	1280.9	36	Autobusai	36	01	2-10482	1305	1305	1	0
 delay	555694	B>A	Pagubė–Naujaneriai–Balsiai–Kalvarijų–Žalgirio g.	1310	1311	-3.5	Pramogų arena	1343.8	0.30000001	Gulbinų st.	1312.8	36	Autobusai	36	01	2-10482	1352	1349	1	0
+missed	244954	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1357	NULL	NULL	NULL	NULL	NULL	NULL	NULL	36	Autobusai	36	01		1396	NULL	NULL	NULL
 delay	555804	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	336	337	-2	Krakiškės	367.20001	1.5	Tauragnų st.	339.70001	36	Autobusai	36	02	2-193	378	377	0	0
 delay	555804	B>A	Pagubė–Naujaneriai–Balsiai–Kalvarijų–Žalgirio g.	388	388	-2.5999999	Pramogų arena	426.29999	0.40000001	Krakiškės	398.10001	36	Autobusai	36	02	2-193	438	435	0	0
 delay	555804	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	446	446	-1.8	Krakiškės	479.39999	-0.40000001	Giedraičių st.	446.70001	36	Autobusai	36	02	2-193	490	489	0	0
@@ -2978,6 +2982,7 @@ delay	555818	A>B	Fabijoniškės–Centras–Oro uostas	1184	1185	-1.4	Lietuvos s
 delay	555818	B>A	Oro uostas–Centras–Fabijoniškės	1228	1228	-1.7	Igno Šeiniaus st.	1257.4	0	Dariaus ir Girėno st.	1229.8	3G	Autobusai	3G	11	2-3157	1267	1266	0	0
 delay	555818	A>B	Fabijoniškės–Centras–Oro uostas	1272	1273	-0.89999998	Dariaus ir Girėno st.	1306.6	1.9	Šeškinės poliklinika	1282.5	3G	Autobusai	3G	11	2-3157	1309	1308	0	0
 delay	555818	B>A	Oro uostas–Centras–Fabijoniškės	1314	1314	-2.2	Jurgio Baltrušaičio st.	1345.3	-0.1	Dariaus ir Girėno st.	1315.7	3G	Autobusai	3G	11	2-3157	1353	1351	0	0
+missed	425812	A>B	Fabijoniškės–Centras–Oro uostas	1358	NULL	NULL	NULL	NULL	NULL	NULL	NULL	3G	Autobusai	3G	11		1396	NULL	NULL	NULL
 delay	556095	A>B	Fabijoniškės–Centras–Oro uostas	445	446	1.1	Fabijoniškių žiedas	446.79999	4.4000001	Mikalojaus Konstantino Čiurlionio st.	482.10001	3G	Autobusai	3G	12	2-10684	492	494	1	0
 delay	556095	B>A	Oro uostas–Centras–Fabijoniškės	497	499	1	Žaliasis tiltas	517.70001	4.3000002	Europos aikštė	525.79999	3G	Autobusai	3G	12	2-10684	538	541	1	0
 delay	556095	A>B	Fabijoniškės–Centras–Oro uostas	548	549	-1.5	Lietuvos sąjūdžio kelias	564	0.5	Naujininkai	585.5	3G	Autobusai	3G	12	2-10684	591	590	0	0
@@ -3698,7 +3703,7 @@ delay	555747	B>A	Santariškės–Pašilaičiai–Šeškinė	1163	1163	-3.0999999
 delay	555747	A>B	Šeškinė–Pašilaičiai–Santariškės	1235	1236	-1.2	Siesikų st.	1243.5	0.40000001	Jurgio Baltrušaičio st.	1252.8	48	Autobusai	48	01-Ž	2-252	1269	1268	0	0
 delay	555747	B>A	Santariškės–Pašilaičiai–Šeškinė	1275	1275	-1.1	Paberžės st.	1306.3	0.80000001	Ateities st.	1283.4	48	Autobusai	48	01-Ž	2-252	1310	1309	0	0
 delay	555747	A>B	Šeškinė–Pašilaičiai–Santariškės	1319	1318	-1.8	Paberžės st.	1320.8	1.8	Jurgio Baltrušaičio st.	1338.1	48	Autobusai	48	01-Ž	2-252	1353	1351	0	0
-missed	426041	B>A	Santariškės–Pašilaičiai–Šeškinė	1358	NULL	NULL	NULL	NULL	NULL	NULL	NULL	48	Autobusai	48	01-Ž		1393	NULL	NULL	NULL
+delay	555747	B>A	Santariškės–Pašilaičiai–Šeškinė	1358	1358	-2.5999999	Paberžės st.	1387.8	0.80000001	Ateities st.	1366.4	48	Autobusai	48	01-Ž	2-252	1393	1391	0	0
 delay	555731	A>B	Šeškinė–Pašilaičiai–Santariškės	327	327	-1.1	Paberžės st.	329.39999	1.9	Kaimelio žiedas	347.79999	48	Autobusai	48	02	2-1970	362	362	0	0
 delay	555731	B>A	Santariškės–Pašilaičiai–Šeškinė	367	368	-2.3	Paberžės st.	399.10001	0.60000002	Ateities st.	376.29999	48	Autobusai	48	02	2-1970	404	402	0	0
 delay	555731	A>B	Šeškinė–Pašilaičiai–Santariškės	409	409	-1.4	Gelvonėlio st.	413.70001	0.2	Žaliųjų Ežerų st.	445.60001	48	Autobusai	48	02	2-1970	448	448	0	0
@@ -3808,6 +3813,7 @@ delay	555778	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	1116	
 delay	555778	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	1178	1178	-1	Broniaus Laurinavičiaus skveras	1212.9	2.2	Baltupiai	1224.3	49	Autobusai	49	04	2-195	1227	1229	0	0
 delay	555778	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	1232	1233	0.60000002	Naujakiemio st.	1238.7	4.1999998	Linkmenų st.	1249.6	49	Autobusai	49	04	2-195	1280	1282	1	0
 delay	555778	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	1288	1289	-0.89999998	Broniaus Laurinavičiaus skveras	1323.1	1.9	Karoliniškės	1307.9	49	Autobusai	49	04	2-195	1337	1337	0	0
+missed	426049	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	1347	NULL	NULL	NULL	NULL	NULL	NULL	NULL	49	Autobusai	49	04		1395	NULL	NULL	NULL
 delay	555896	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	403	403	-1.5	Baltupiai	449.60001	3.7	Lietuvos edukologijos universitetas	433.29999	49	Autobusai	49	05	2-710	456	454	1	0
 delay	555896	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	466	467	0.40000001	Didlaukio st.	470.60001	5.6999998	Panorama	497.60001	49	Autobusai	49	05	2-710	521	525	1	1
 delay	555896	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	526	527	0.30000001	Broniaus Laurinavičiaus skveras	564.09998	2.4000001	Šnipiškės	558.40002	49	Autobusai	49	05	2-710	578	579	0	0
@@ -3870,6 +3876,7 @@ delay	555945	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	1125	1126	-1.1	Europ
 delay	555945	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1213	1213	-1.9	Šilo tiltas	1241.7	0.1	Bitėnų st.	1213.7	4G	Autobusai	4G	03Ž	2-2712	1255	1254	0	0
 delay	555945	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	1261	1263	1.4	Šilo tiltas	1275.1	3.4000001	Lietuvos sąjūdžio kelias	1288.8	4G	Autobusai	4G	03Ž	2-2712	1302	1304	1	0
 delay	555945	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1308	1309	-1.4	Šilo tiltas	1337.4	1.2	Bitėnų st.	1309.9	4G	Autobusai	4G	03Ž	2-2712	1349	1349	0	0
+missed	475846	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	1354	NULL	NULL	NULL	NULL	NULL	NULL	NULL	4G	Autobusai	4G	03Ž		1395	NULL	NULL	NULL
 delay	556047	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	426	425	-1.8	Karaliaučiaus st.	428.29999	1.9	Lvovo st.	451.29999	4G	Autobusai	4G	04	2-1745	473	472	0	0
 delay	556047	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	483	483	-0.40000001	Papilėnų st.	521.5	1.6	Teodoro Narbuto st.	515.29999	4G	Autobusai	4G	04	2-1745	526	526	0	0
 delay	556047	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	533	533	-2.4000001	Sietyno st.	543	1.4	Lvovo st.	555.79999	4G	Autobusai	4G	04	2-1745	575	575	0	0
@@ -3897,7 +3904,7 @@ delay	556142	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1154	1154	-1.4	Lietu
 delay	556142	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	1204	1204	-1.5	Lietuvos edukologijos universitetas	1228.7	0.40000001	Antakalnis	1210.9	4G	Autobusai	4G	05Ž	2-17496	1245	1245	0	0
 delay	556142	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1257	1257	-1.3	Lietuvos edukologijos universitetas	1273.9	0.5	Tuskulėnų rimties parkas	1282.4	4G	Autobusai	4G	05Ž	2-17496	1298	1297	0	0
 delay	556142	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	1304	1304	-0.60000002	Europos aikštė	1326.4	2.5999999	Gilužio st.	1346.7	4G	Autobusai	4G	05Ž	2-17496	1345	1348	0	0
-missed	475853	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1352	NULL	NULL	NULL	NULL	NULL	NULL	NULL	4G	Autobusai	4G	05Ž		1393	NULL	NULL	NULL
+delay	556142	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	1352	1352	-3.5	Senoji plytinė	1388.5	0.40000001	Lvovo st.	1373.4	4G	Autobusai	4G	05Ž	2-17496	1393	1390	1	0
 delay	556074	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	436	437	0.5	Karaliaučiaus st.	440.70001	7.0999999	Lvovo st.	467	4G	Autobusai	4G	06	2-1370	483	489	1	1
 delay	556074	B>A	Saulėtekis–Konstitucijos pr.–Pilaitė	493	493	-1.4	Lvovo st.	513.79999	1.6	Antakalnis	501.39999	4G	Autobusai	4G	06	2-1370	536	537	0	0
 delay	556074	A>B	Pilaitė–Konstitucijos pr.–Saulėtekis	546	546	-0.60000002	Karaliaučiaus st.	549.5	3.0999999	Tuskulėnų rimties parkas	574	4G	Autobusai	4G	06	2-1370	588	591	1	0
@@ -4512,7 +4519,7 @@ delay	555777	A>B	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	1160	1161	0.1	
 delay	555777	B>A	Stotis–Pylimo–Kalvarijų g.–Fabijoniškės	1205	1206	-0.40000001	Pramogų arena	1227.8	1.8	Reformatų st.	1213.8	53	Autobusai	53	13	2-1863	1244	1246	0	0
 delay	555777	A>B	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	1257	1258	0.1	Centro poliklinika	1290.8	2.0999999	Žalgirio st.	1281.8	53	Autobusai	53	13	2-1863	1296	1298	0	0
 delay	555777	B>A	Stotis–Pylimo–Kalvarijų g.–Fabijoniškės	1301	1302	1.8	Stotis	1303.5	4.4000001	Simono Stanevičiaus st.	1337.6	53	Autobusai	53	13	2-1863	1340	1344	1	1
-missed	476565	A>B	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	1352	NULL	NULL	NULL	NULL	NULL	NULL	NULL	53	Autobusai	53	13		1391	NULL	NULL	NULL
+delay	555777	A>B	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	1352	1353	-0.60000002	Centro poliklinika	1385	0.89999998	Gelvonėlio st.	1364.2	53	Autobusai	53	13	2-1863	1391	1391	0	0
 delay	555690	A>B	Pilaitė–Lazdynai–Stotis	318	319	-0.30000001	Statybininkų st.	348.10001	1.9	Bitėnų st.	320.60001	54	Autobusai	54	01-Ž	2-2859	355	356	0	0
 delay	555690	B>A	Stotis–Lazdynai–Pilaitė	360	359	-2.4000001	Miškiniai	375.89999	-0.40000001	Įsruties st.	394.5	54	Autobusai	54	01-Ž	2-2859	398	397	0	0
 delay	555690	A>B	Pilaitė–Lazdynai–Stotis	405	405	-2.5	Žemaitės st.	434.39999	0.89999998	Smalinės st.	412.60001	54	Autobusai	54	01-Ž	2-2859	445	443	0	0
@@ -4973,6 +4980,7 @@ delay	555657	B>A	Saulėtekis–Ozo g.–Pašilaičiai	1190	1190	-2.0999999	Taiko
 delay	555657	A>B	Pašilaičiai–Ozo g.–Saulėtekis	1235	1235	-2.5	Gedimino technikos universitetas	1265.4	-0.1	Justiniškės	1241.2	5G	Autobusai	5G	07	2-592	1270	1268	0	0
 delay	555657	B>A	Saulėtekis–Ozo g.–Pašilaičiai	1280	1279	-1.3	Vilniaus universitetas	1282	0.89999998	Rygos st.	1305.4	5G	Autobusai	5G	07	2-592	1313	1312	0	0
 delay	555657	A>B	Pašilaičiai–Ozo g.–Saulėtekis	1323	1323	-2.8	Gedimino technikos universitetas	1352.8	0.5	Justiniškės	1329.5	5G	Autobusai	5G	07	2-592	1358	1355	0	0
+missed	476517	B>A	Saulėtekis–Ozo g.–Pašilaičiai	1363	NULL	NULL	NULL	NULL	NULL	NULL	NULL	5G	Autobusai	5G	07		1396	NULL	NULL	NULL
 delay	556055	A>B	Pašilaičiai–Ozo g.–Saulėtekis	428	428	-0.1	Justiniškės	435.60001	7.3000002	Lizdeikos st.	468.10001	5G	Autobusai	5G	08	2-2509	471	476	1	1
 delay	556055	B>A	Saulėtekis–Ozo g.–Pašilaičiai	481	480	-1	Pramogų arena	499.60001	2.8	Medeinos st.	519.70001	5G	Autobusai	5G	08	2-2509	519	522	0	0
 delay	556055	A>B	Pašilaičiai–Ozo g.–Saulėtekis	529	529	-1.4	Licėjus	552.40002	0	Taikos st.	534	5G	Autobusai	5G	08	2-2509	571	570	0	0
@@ -5668,6 +5676,7 @@ delay	555692	A>B	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	11
 delay	555692	B>A	Lazdynai–Viršuliškės–Verkių g.–Šiaurės miestelis	1211	1206	-5.1999998	Šeškinės kalvos	1228.9	-1.8	Sietyno st.	1219.1	7	Autobusai	7	03	2-3176	1249	1247	1	1
 delay	555692	A>B	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	1260	1262	0.80000001	Kareivių st.	1266.3	6.5	Ąžuolyno st.	1288	7	Autobusai	7	03	2-3176	1300	1304	1	1
 delay	555692	B>A	Lazdynai–Viršuliškės–Verkių g.–Šiaurės miestelis	1305	1305	-2.5999999	Siesikų st.	1322.6	1.2	Pramogų arena	1333	7	Autobusai	7	03	2-3176	1343	1343	0	0
+delay	555692	A>B	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	1355	1355	-1.6	Sietyno st.	1383	0.5	Siesikų st.	1374.3	7	Autobusai	7	03	2-3176	1395	1394	0	0
 delay	555738	A>B	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	327	329	-1.2	Spaudos rūmai	354.60001	1.9	Šiaurės miestelis	330.10001	7	Autobusai	7	04	2-333	368	368	0	0
 delay	555738	B>A	Lazdynai–Viršuliškės–Verkių g.–Šiaurės miestelis	368	368	-0.2	Riešutų st.	368.89999	3.3	Autobusų parkas	401.20001	7	Autobusai	7	04	2-333	406	409	1	0
 delay	555738	A>B	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	421	420	-2.0999999	Pramogų arena	435.29999	4.5	Viršuliškės	455.5	7	Autobusai	7	04	2-333	465	469	1	1
@@ -6474,7 +6483,7 @@ delay	555976	A>B	Saulėtekis–Kalvarijų g.–Naujininkai	1137	1137	-1.2	Lizdei
 delay	555976	B>A	Naujininkai–Kalvarijų g.–Saulėtekis	1191	1191	-2.3	Kalvarijų turgus	1210	0.30000001	Nemenčinės plentas	1227.5	10	Troleibusai	10	10	3-2663	1233	1233	0	0
 delay	555976	A>B	Saulėtekis–Kalvarijų g.–Naujininkai	1243	1243	-3	Prūsų st.	1284.4	-0.1	Antakalnio žiedas	1251.1	10	Troleibusai	10	10	3-2663	1289	1286	0	0
 delay	555976	B>A	Naujininkai–Kalvarijų g.–Saulėtekis	1293	1293	-1.8	Kareivių st.	1323	1.3	„Sparta“	1298.1	10	Troleibusai	10	10	3-2663	1335	1334	0	0
-missed	428065	A>B	Saulėtekis–Kalvarijų g.–Naujininkai	1348	NULL	NULL	NULL	NULL	NULL	NULL	NULL	10	Troleibusai	10	10		1394	NULL	NULL	NULL
+delay	555976	A>B	Saulėtekis–Kalvarijų g.–Naujininkai	1348	1347	-2.7	Prūsų st.	1389.8	0.5	Verkių st.	1365.3	10	Troleibusai	10	10	3-2663	1394	1392	0	0
 delay	555593	A>B	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	298	298	-1.5	Gerosios Vilties st.	333.89999	-0.5	Šaltinėlio st.	298.60001	12	Troleibusai	12	01	3-131	346	345	0	0
 delay	555593	B>A	Žemieji Paneriai–J. Basanavičiaus–Šeimyniškių g.–Žirmūnai	350	349	-1.9	Trakų st.	371.70001	-0.69999999	Vilkpėdės st.	358.70001	12	Troleibusai	12	01	3-131	399	398	0	0
 delay	555593	A>B	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	407	406	-1.6	Žaliasis tiltas	426.79999	-0.40000001	Riovonys	451.60001	12	Troleibusai	12	01	3-131	459	458	0	0
@@ -7796,6 +7805,7 @@ delay	556023	B>A	Stotis–Žygimantų g.–Saulėtekis	1160	1160	-1.1	Trakų st.
 delay	556023	A>B	Saulėtekis–Žygimantų g.–Stotis	1234	1233	-1.5	Kalnų parkas	1253.7	-0.1	Vinco Kudirkos aikštė	1260.8	2	Troleibusai	2	11	3-2829	1272	1272	0	0
 delay	556023	B>A	Stotis–Žygimantų g.–Saulėtekis	1273	1273	-2.0999999	Vinco Kudirkos aikštė	1282	-0.60000002	Leono Sapiegos st.	1291.2	2	Troleibusai	2	11	3-2829	1307	1305	0	0
 delay	556023	A>B	Saulėtekis–Žygimantų g.–Stotis	1323	1321	-2.2	Antakalnis	1329.2	-1	Šv. Petro ir Povilo bažnyčia	1340.9	2	Troleibusai	2	11	3-2829	1361	1360	0	0
+missed	474464	B>A	Stotis–Žygimantų g.–Saulėtekis	1362	NULL	NULL	NULL	NULL	NULL	NULL	NULL	2	Troleibusai	2	11		1396	NULL	NULL	NULL
 delay	555711	A>B	Saulėtekis–Žygimantų g.–Stotis	349	349	-1.5	Vingriai	381.29999	-0.40000001	Saulėtekis	353.5	2	Troleibusai	2	12Ž	3-10353	387	386	0	0
 delay	555711	B>A	Stotis–Žygimantų g.–Saulėtekis	388	388	-0.80000001	Jogailos st.	396.70001	0.89999998	Nemenčinės plentas	416.39999	2	Troleibusai	2	12Ž	3-10353	422	422	0	0
 delay	555711	A>B	Saulėtekis–Žygimantų g.–Stotis	434	434	-0.2	Antakalnis	442.70001	2	Karaliaus Mindaugo tiltas	461.79999	2	Troleibusai	2	12Ž	3-10353	477	478	0	0
@@ -8015,6 +8025,7 @@ delay	556148	A>B	Žirmūnai–Žygimantų–Pylimo g.–Stotis	1196	1196	-2.2	G�
 delay	556148	B>A	Stotis–Pylimo–Žygimantų g.–Žirmūnai	1232	1230	-2.5999999	Reformatų st.	1238.3	0.89999998	Šaltinėlio st.	1262.9	20	Troleibusai	20	06	3-2732	1263	1264	0	0
 delay	556148	A>B	Žirmūnai–Žygimantų–Pylimo g.–Stotis	1273	1273	-1	Gėlių st.	1304.2	0.80000001	Šv. Petro ir Povilo bažnyčia	1289.7	20	Troleibusai	20	06	3-2732	1308	1307	0	0
 delay	556148	B>A	Stotis–Pylimo–Žygimantų g.–Žirmūnai	1309	1308	-1.8	Trakų st.	1313.5	0.1	Karaliaus Mindaugo tiltas	1323.1	20	Troleibusai	20	06	3-2732	1340	1339	0	0
+delay	556148	A>B	Žirmūnai–Žygimantų–Pylimo g.–Stotis	1360	1362	-0.30000001	Vingriai	1390.3	1.4	Žirmūnai	1367.8	20	Troleibusai	20	06	3-2732	1395	1395	0	0
 delay	555944	B>A	Žirmūnai–Šilo tiltas–Saulėtekis	376	376	-1.2	Vilniaus universitetas	397.20001	0.2	Šiaurės miestelis	384.39999	21	Troleibusai	21	01	3-3114	401	400	0	0
 delay	555944	A>B	Saulėtekis–Šilo tiltas–Žirmūnai	417	416	-0.89999998	Klinikų st.	428	-0.40000001	Kareivių st.	436.79999	21	Troleibusai	21	01	3-3114	442	442	0	0
 delay	555944	B>A	Žirmūnai–Šilo tiltas–Saulėtekis	449	449	-0.2	Žirmūnų seniūnija	452.70001	3.3	Saulėtekis	474.60001	21	Troleibusai	21	01	3-3114	476	479	1	0
@@ -8488,7 +8499,7 @@ delay	555970	B>A	Žemieji Paneriai–J. Basanavičiaus–Kalvarijų g.–Žirmū
 delay	555970	A>B	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	1179	1179	-2.9000001	Tauragnų st.	1188.5	-0.1	Gerosios Vilties st.	1215.3	6	Troleibusai	6	06	3-3124	1226	1225	0	0
 delay	555970	B>A	Žemieji Paneriai–J. Basanavičiaus–Kalvarijų g.–Žirmūnai	1236	1237	-1.8	Tauragnų st.	1272.9	1.5	Jogailos st.	1263.1	6	Troleibusai	6	06	3-3124	1282	1282	0	0
 delay	555970	A>B	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	1290	1290	-1.2	Vaduvos st.	1334	0.60000002	Gerosios Vilties st.	1325.7	6	Troleibusai	6	06	3-3124	1336	1335	0	0
-missed	475772	B>A	Žemieji Paneriai–J. Basanavičiaus–Kalvarijų g.–Žirmūnai	1343	NULL	NULL	NULL	NULL	NULL	NULL	NULL	6	Troleibusai	6	06		1389	NULL	NULL	NULL
+delay	555970	B>A	Žemieji Paneriai–J. Basanavičiaus–Kalvarijų g.–Žirmūnai	1343	1344	-3.4000001	Broniaus Laurinavičiaus skveras	1375	0.80000001	Sausupio st.	1347.3	6	Troleibusai	6	06	3-3124	1389	1388	1	0
 delay	556073	A>B	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	427	426	-2.5	Pramogų arena	434.70001	2.2	Pakalniškių st.	477	6	Troleibusai	6	07	3-22	480	482	0	0
 delay	556073	B>A	Žemieji Paneriai–J. Basanavičiaus–Kalvarijų g.–Žirmūnai	487	486	-2.2	Žaliasis tiltas	517.29999	2.3	Šaltinėlio st.	538.59998	6	Troleibusai	6	07	3-22	537	540	0	0
 delay	556073	A>B	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	543	542	-2.4000001	Pramogų arena	550.59998	0.40000001	Pakalniškių st.	589.29999	6	Troleibusai	6	07	3-22	594	594	0	0
@@ -9136,4 +9147,4 @@ delay	556065	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1039	1
 delay	556065	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	1085	1085	-1.5	Tuskulėnų rimties parkas	1112.7	0	Pasakų parkas	1085.3	9	Troleibusai	9	11	3-1569	1122	1122	0	0
 delay	556065	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1127	1126	-1.6	„Žalgirio“ stadionas	1135.4	55.700001	Karoliniškių poliklinika	1211.3	9	Troleibusai	9	11	3-1569	1161	1216	1	1
 
-(9135 rows affected)
+(9146 rows affected)
