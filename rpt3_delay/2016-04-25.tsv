@@ -577,6 +577,7 @@
 555733	2-390	356	B>A	Stotis–Laisvės pr.–Santariškės	944	945	1	Lazdynai	963.59998	4.3000002	Jeruzalė	994	2G	Autobusai	2G	03
 555733	2-390	356	A>B	Santariškės–Laisvės pr.–Stotis	1012	1012	-0.40000001	Jeruzalė	1017	3.5999999	Sietyno st.	1044	2G	Autobusai	2G	03
 555733	2-390	356	B>A1	Stotis–Laisvės pr.–Santariškės (Santariškių žiedas)	1211	1211	-1.3	Savanorių prospektas	1221.5	3.5999999	Vaikų ligoninė	1259.8	2G	Autobusai	2G	03
+555733	2-390	356	B>A	Stotis–Laisvės pr.–Santariškės	1340	1340	-0.5	Gerosios Vilties st.	1352.6	4.1999998	Ateities st.	1382.4	2G	Autobusai	2G	03
 555996	2-239	703	A>B	Santariškės–Laisvės pr.–Stotis	394	394	-1.5	Liudo Giros st.	405.20001	4.1999998	Savanorių prospektas	435	2G	Autobusai	2G	04
 555996	2-239	703	B>A	Stotis–Laisvės pr.–Santariškės	444	445	-0.69999999	Savanorių prospektas	456	10.5	Kalvarijos	498.79999	2G	Autobusai	2G	04
 555996	2-239	703	A>B	Santariškės–Laisvės pr.–Stotis	503	505	-3.3	Rygos st.	522.90002	2.3	Gerosios Vilties st.	547.20001	2G	Autobusai	2G	04
@@ -1043,6 +1044,7 @@
 555715	2-806	544	B>A	Centras–Žaliasis tiltas–Šeškinė–Justiniškės	1005	1005	0.60000002	Lukiškės	1006.6	5.5999999	Šiaurinė st.	1046.3	43	Autobusai	43	03
 555715	2-806	544	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	1055	1055	0.1	Justiniškių žiedas	1055.2	6.8000002	Žaliasis tiltas	1091.4	43	Autobusai	43	03
 555715	2-806	544	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	1330	1331	-3.3	Europos aikštė	1350.8	0.1	Šiaurinė st.	1332.5	43	Autobusai	43	03
+555715	2-806	544	B>A	Centras–Žaliasis tiltas–Šeškinė–Justiniškės	1367	1366	-3.9000001	Šiaurinė st.	1392.9	-1	Lukiškės	1367	43	Autobusai	43	03
 556108	2-1447	336	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	439	446	7.3000002	Šiaurinė st.	448.70001	11.9	Buivydiškių st.	468.60001	43	Autobusai	43	04
 556108	2-1447	336	B>A	Centras–Žaliasis tiltas–Šeškinė–Justiniškės	491	493	-0.2	Žaliasis tiltas	499	3.0999999	Rygos st.	519.59998	43	Autobusai	43	04
 556137	2-2120	620	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	935	934	-1.9	Justiniškių žiedas	933.09998	4.8000002	Žaliasis tiltas	968	43	Autobusai	43	04
@@ -1963,6 +1965,7 @@
 556087	3-2428	2688	B>A	Stotis–Žvėrynas–Karoliniškės	1056	1063	4.9000001	Islandijos st.	1071.2	11.6	Karoliniškių poliklinika	1097.3	1	Troleibusai	1	02Ž
 556087	3-2428	2688	A>B	Karoliniškės–Žvėrynas–Stotis	1100	1102	1.1	Karoliniškių poliklinika	1105.6	3.3	Pamėnkalnio st.	1124.6	1	Troleibusai	1	02Ž
 556087	3-2428	2688	B>A	Stotis–Žvėrynas–Karoliniškės	1133	1138	3.9000001	Islandijos st.	1147.3	13.9	Karoliniškių poliklinika	1174.1	1	Troleibusai	1	02Ž
+556087	3-2428	2688	A>B	Karoliniškės–Žvėrynas–Stotis	1361	1364	-1.4	Vingriai	1386.6	3.0999999	Pasakų parkas	1364.3	1	Troleibusai	1	02Ž
 555723	3-263	2665	B>A	Stotis–Žvėrynas–Karoliniškės	914	917	2.2	Stotis	916.29999	4.1999998	Pamėnkalnio st.	929.79999	1	Troleibusai	1	03
 555723	3-263	2665	B>A	Stotis–Žvėrynas–Karoliniškės	1076	1078	1.6	Stotis	1077.7	5.5999999	Teodoro Narbuto st.	1104.3	1	Troleibusai	1	03
 555793	3-2466	2667	A>B	Karoliniškės–Žvėrynas–Stotis	1002	1002	-1.1	Karoliniškių poliklinika	1005.3	5.0999999	Gėlių st.	1036.4	1	Troleibusai	1	04
@@ -2336,6 +2339,7 @@
 556034	3-1976	1649	B>A	Šeimyniškių g.–Žvėrynas–Karoliniškės	752	752	-0.2	Šeimyniškių st.	751.79999	3.2	Pamėnkalnio st.	770	3	Troleibusai	3	03
 556034	3-1976	1649	B>A	Šeimyniškių g.–Žvėrynas–Karoliniškės	1010	1008	-1.6	Šeimyniškių st.	1008.6	8.1000004	Sietyno st.	1046.7	3	Troleibusai	3	03
 556034	3-1976	1649	A>B	Karoliniškės–Žvėrynas–Šeimyniškių g.	1064	1063	-0.80000001	Atminties st.	1064.8	4.1999998	Jogailos st.	1092.2	3	Troleibusai	3	03
+556034	3-1976	1649	B>A	Šeimyniškių g.–Žvėrynas–Karoliniškės	1359	1359	-4.3000002	Ugniagesių st.	1385	-0.1	Šeimyniškių st.	1358.9	3	Troleibusai	3	03
 556105	3-3010	2589	B>A	Šeimyniškių g.–Žvėrynas–Karoliniškės	999	999	-0.1	„Žalgirio“ stadionas	1000.8	3.5999999	Sietyno st.	1030.7	3	Troleibusai	3	04
 556105	3-3010	2589	A>B	Karoliniškės–Žvėrynas–Šeimyniškių g.	1052	1051	-0.60000002	Atminties st.	1052.9	6.0999999	Jogailos st.	1082.1	3	Troleibusai	3	04
 556105	3-3010	2589	B>A	Šeimyniškių g.–Žvėrynas–Karoliniškės	1091	1096	4	Vinco Kudirkos aikštė	1105	6.3000002	Laisvės prospektas	1125.8	3	Troleibusai	3	04
@@ -2618,4 +2622,4 @@
 556065	3-1569	2623	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1039	1038	-0.89999998	Tuskulėnų rimties parkas	1044.8	5.1999998	Karoliniškių poliklinika	1073.8	9	Troleibusai	9	11
 556065	3-1569	2623	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1127	1126	-1.6	„Žalgirio“ stadionas	1135.4	55.700001	Karoliniškių poliklinika	1211.3	9	Troleibusai	9	11
 
-(2617 rows affected)
+(2621 rows affected)
