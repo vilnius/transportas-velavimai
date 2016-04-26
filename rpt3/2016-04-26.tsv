@@ -1,0 +1,575 @@
+﻿Operator	Transportas	Marsrutas	MarsrutasOrd	KryptiesPavadinimas	TvarkarascioMarsrutas	Pavadinimas	VehicleID	VehicleGarNum	PlanTrips	FaktTrips	RegularTrips	FaktRunID	PlanRunID	RegularTripsEnds
+--------	-----------	---------	------------	-------------------	---------------------	-----------	---------	-------------	---------	---------	------------	---------	---------	----------------
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	01-ž	2-465	772	22	7	4	556222	539419	5
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	02	2-11475	991	10	6	5	556504	539418	6
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	03-ž	2-395	741	21	4	2	556424	539424	3
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	03-ž	2-11704	58	21	3	2	556714	539424	3
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	04	2-2585	283	10	4	3	556469	539428	3
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	05	2-2974	778	23	7	4	556278	539421	6
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	06	2-10376	874	10	4	4	556636	539426	4
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	07-ž	2-17394	3010	21	7	4	556223	539423	4
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	08	2-2285	519	10	6	5	556548	539429	5
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	09-ž	2-2449	178	23	5	1	556642	539427	1
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	09-ž	2-588	3009	23	1	1	556194	539427	1
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	10	2-2298	478	8	4	1	556665	539422	1
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	11	2-10490	871	22	7	6	556258	539420	6
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	12	2-1379	521	10	6	2	556593	539417	2
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	13-ž	2-10570	876	23	7	6	556336	539425	6
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	14	2-488	885	10	5	2	556633	539430	2
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	15	2-477	993	20	7	6	556356	539431	7
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	16	2-1624	170	10	5	3	556666	539432	3
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	17	2-2121	879	23	7	4	556454	539433	5
+VVT	Autobusai	1G	1	Stotis–Kalvarijų g.–Santariškės	1G	18	2-2432	992	22	7	5	556501	539434	5
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	01-ž	2-1853	744	18	6	3	556334	425773	4
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	02	2-10684	872	8	4	0	556584	425768	0
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	03	2-2744	168	17	5	1	556242	425770	3
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	04	2-607	887	8	0	0	556596	425767	0
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	05-ž	2-10336	3013	17	5	1	556271	425772	1
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	06	2-540	206	8	3	0	556631	425771	1
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	07	2-402	774	18	6	3	556381	425774	3
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	08	2-577	51	8	3	0	556667	425769	0
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	09-ž	2-2918	770	18	5	2	556265	425775	2
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	10	2-1503	52	8	3	0	556677	425778	0
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	11	2-1431	56	17	5	2	556459	425777	3
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	12	2-742	880	8	3	1	556697	425776	1
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	13-ž	2-1328	277	18	5	2	556403	425779	2
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	14	2-73	481	8	3	1	556704	425782	1
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	15	2-1538	374	18	6	3	556198	425781	4
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	16	2-278	139	8	3	0	556709	425783	0
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	17	2-390	356	16	5	2	556478	425780	2
+VVT	Autobusai	2G	2	Santariškės–Laisvės pr.–Stotis	2G	18	2-352	775	16	5	1	556535	425784	2
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	01-Ž	2-734	912	22	7	3	556231	425805	4
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	02	2-2381	524	8	4	0	556565	425808	1
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	03-ž	2-2320	512	22	7	3	556273	425806	5
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	04	2-2398	529	8	4	1	556621	425807	2
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	05	2-1773	997	22	7	5	556329	425809	7
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	06	2-560	886	8	4	4	556564	425810	4
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	07-ž	2-17496	4015	20	6	6	556373	425811	6
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	08	2-1768	525	8	4	3	556655	425814	4
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	09-ž	2-2919	779	21	6	3	556282	425813	5
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	10	2-631	922	8	4	2	556679	425815	3
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	11	2-239	703	22	6	5	556431	425812	5
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	12	2-3179	475	8	4	3	556690	425818	3
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	13-ž	2-3061	167	21	7	5	556174	425816	6
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	14	2-679	227	8	4	1	556702	425817	3
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	14	VVB294	227R	8	0	0	556703	425817	0
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	15	2-2130	881	20	6	4	556455	425819	5
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	16	2-2821	514	8	4	2	556708	425820	3
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	17	2-3149	742	20	6	1	556520	425821	4
+VVT	Autobusai	3G	3	Fabijoniškės–Centras–Oro uostas	3G	18	2-10001	4017	21	6	4	556328	425822	4
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	01Ž	2-2984	747	20	5	3	556289	475848	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	02	2-3005	548	10	4	2	556485	475850	2
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	03Ž	2-2967	749	20	5	0	556557	475846	0
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	04	2-3074	543	8	3	0	556643	475844	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	05Ž	2-964	773	20	6	2	556351	475853	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	06	2-215	550	8	3	0	556672	475854	1
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	07	2-1375	427	20	7	5	556253	475855	5
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	08	NULL	???	8	0	0	0	475851	0
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	09	2-17440	295	20	6	4	556315	475843	6
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	10	2-2295	598	8	3	1	556694	475841	1
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	11	2-2324	542	10	4	0	556573	475858	1
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	12Ž	2-10682	4008	20	6	3	556448	475845	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	13	2-1254	297	8	4	2	556592	475852	2
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	14	2-17407	294	20	6	3	556284	475847	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	15	2-576	596	8	4	2	556652	475849	3
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	16	2-806	544	20	6	4	556374	475842	5
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	17	2-1618	159	8	4	1	556630	475856	2
+VVT	Autobusai	4G	4	Pilaitė–Konstitucijos pr.–Saulėtekis	4G	18Ž	2-2411	299	20	6	2	556432	475857	2
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	01-ž	2-1395	999	22	7	5	556318	476514	5
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	02	2-2163	479	9	5	3	556516	476516	5
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	03	2-10345	266	20	7	6	556383	476518	6
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	04	2-10611	279	9	5	2	556572	476521	3
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	05-ž	2-3065	771	21	7	4	556247	476519	6
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	06	2-341	327	9	5	3	556634	476522	4
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	07	2-2075	482	22	7	5	556332	476517	6
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	08	2-2368	522	9	5	4	556653	476523	5
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	09-ž	2-3135	701	22	6	3	556396	476520	4
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	10	2-293	114	9	5	1	556629	476524	4
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	11	2-149	480	22	6	4	556446	476515	5
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	12-ž	2-673	883	22	6	2	556444	476525	4
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	13	2-2712	184	21	6	5	556496	476526	5
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	14	2-1622	523	7	3	2	556688	476527	2
+VVT	Autobusai	5G	5	Pašilaičiai–Ozo g.–Saulėtekis	5G	15	2-10600	4010	21	5	2	556579	476528	4
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	01-ž	2-3155	705	28	10	8	556181	425879	8
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	02	2-2569	276	12	5	4	556233	425881	4
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	03	2-1347	509	30	9	7	556288	425880	7
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	04	2-1345	474	12	6	3	556367	425883	3
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	05-Ž	2-561	707	30	0	0	556363	425882	0
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	06	2-2983	530	12	5	5	556458	425884	5
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	07	2-3028	777	28	9	6	556387	425885	8
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	07	BOU840	777R	28	0	0	556389	425885	0
+VVT	Autobusai	6G	6	Parko–Olandų g.–Žaliasis tiltas	6G	08	2-2375	531	12	0	0	556519	425886	0
+VVT	Autobusai	1	1	Stotis–Oro uostas	1	01-Ž	2-2963	720	44	15	9	556324	244345	10
+VVT	Autobusai	2	2	Stotis–Liepkalnio–Vikingų g.–Oro uostas	2	01	2-569	766	46	15	7	556339	523692	12
+VVT	Autobusai	2	2	Stotis–Liepkalnio–Vikingų g.–Oro uostas	2	02	2-3191	712	22	10	6	556435	523691	10
+VVT	Autobusai	3	3	Stotis–Eišiškių pl.–Dilgynė–Salininkai–Vaidotai	3	01	2-453	724	20	7	4	556199	150798	6
+VVT	Autobusai	3	3	Stotis–Eišiškių pl.–Dilgynė–Salininkai–Vaidotai	3	02	2-683	730	8	4	2	556546	150799	2
+VVT	Autobusai	3	3	Stotis–Eišiškių pl.–Dilgynė–Salininkai–Vaidotai	3	03	2-1341	944	18	6	4	556352	150800	6
+VVT	Autobusai	4	4	Stotis–Rodūnios kelias–Kirtimai	4	01	2-31	951	30	10	6	556264	103576	7
+VVT	Autobusai	4	4	Stotis–Rodūnios kelias–Kirtimai	4	01	2-10647	816	30	0	0	556171	103576	0
+VVT	Autobusai	4	4	Stotis–Rodūnios kelias–Kirtimai	4	01	2-467	979	30	0	0	556710	103576	0
+VVT	Autobusai	5	5	Pašilaičiai–Tuskulėnų g.–Šiaurės miestelis	5	01-Ž	2-1970	780	27	5	5	556259	517151	5
+VVT	Autobusai	5	5	Pašilaičiai–Tuskulėnų g.–Šiaurės miestelis	5	01-Ž	2-2587	785	27	3	3	556713	517151	3
+VVT	Autobusai	5	5	Pašilaičiai–Tuskulėnų g.–Šiaurės miestelis	5	02	2-10005	862	27	8	8	556366	517150	8
+VVT	Autobusai	5	5	Pašilaičiai–Tuskulėnų g.–Šiaurės miestelis	5	03	2-9999	945	25	7	6	556476	517149	6
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	01	2-256	4012	21	7	4	556220	476530	4
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	02	2-2509	4007	10	5	4	556429	476529	4
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	03	2-1863	177	21	7	4	556179	476532	4
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	04	2-2956	700	21	6	3	556353	476533	3
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	05-Ž	2-2294	515	20	6	3	556308	476531	4
+VVT	Autobusai	7	7	Šiaurės miestelis–Verkių g.–Viršuliškės–Lazdynai	7	06	2-3184	518	10	5	2	556502	476534	3
+VVT	Autobusai	8	8	Žemieji Paneriai–Aukštieji Paneriai–Vaidotai	8	01	2-531	933	28	9	9	556217	260301	9
+VVT	Autobusai	8	8	Žemieji Paneriai–Aukštieji Paneriai–Vaidotai	8	02	2-3058	500	12	5	3	556279	260300	4
+Privatus	Autobusai	9	9	Zuikių–Agrastų g.	9	01	2-3063	9010	16	8	8	556589	113482	8
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	01-Ž	2-1840	754	18	6	3	556180	425916	5
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	02	2-2858	652	7	2	1	556613	425917	1
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	03	2-1951	794	19	6	3	556430	425915	5
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	04	2-474	831	8	3	3	556616	425914	3
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	05	2-1846	957	19	6	5	556285	425913	5
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	06	2-10383	852	7	3	1	556654	425921	2
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	07	2-736	761	19	5	1	556170	425919	4
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	08	2-507	762	19	5	3	556575	425920	4
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	09	2-2977	781	19	6	1	556234	425918	2
+VVT	Autobusai	10	10	Fabijoniškės–Baltupiai–Markučiai	10	10	2-1681	507	8	3	0	556693	425922	1
+VVT	Autobusai	11	11	Žvėrynas–Senamiestis–Užupis	11	01-Ž	2-842	592	28	10	10	556256	444115	10
+VVT	Autobusai	11	11	Žvėrynas–Senamiestis–Užupis	11	02	2-442	593	31	10	8	556291	444116	9
+VVT	Autobusai	12	12	Stotis–Rudamina–Skaidiškės	12	01	2-408	706	24	8	5	556252	277800	6
+VVT	Autobusai	12	12	Stotis–Rudamina–Skaidiškės	12	02	2-2373	532	23	7	4	556200	277801	7
+Privatus	Autobusai	13	13	Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė	13	01-mt	2-2735	9201	30	10	8	556355	211617	7
+Privatus	Autobusai	13	13	Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė	13	02-mt	2-349	9207	30	10	7	556468	211619	7
+Privatus	Autobusai	13	13	Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė	13	03	2-2923	824	12	5	5	556442	211618	5
+Privatus	Autobusai	13	13	Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė	13	04-mt	2-813	9205	28	7	2	556680	211620	3
+VVT	Autobusai	14	14	Grigaičiai–Parko g.–Arimų g.	14	01	2-2837	955	24	9	9	556213	463307	9
+VVT	Autobusai	14	14	Stotis–Subačiaus–Parko g.	74	01	2-83	757	15	6	4	556292	426138	6
+VVT	Autobusai	15	15	Žolyno g.–Antakalnis–Turniškės	15	01-Ž	2-1250	864	32	11	6	556457	82960	6
+VVT	Autobusai	16	16	Stotis–Nemėžis–Skaidiškės	16	01	2-817	3007	24	8	8	556262	277806	8
+VVT	Autobusai	16	16	Stotis–Nemėžis–Skaidiškės	16	02	2-3075	3008	12	6	4	556433	277805	4
+VVT	Autobusai	16	16	Stotis–Nemėžis–Skaidiškės	16	03	2-2172	59	27	8	6	556232	277804	7
+VVT	Autobusai	17	17	Antakalnis–Nemenčinės pl.–Antaviliai	17	01	2-353	725	33	10	8	556182	425938	10
+VVT	Autobusai	17	17	Antakalnis–Nemenčinės pl.–Antaviliai	17	02	2-10488	850	14	8	7	556316	425939	7
+VVT	Autobusai	18	18	Antakalnis–Dvarčionys–Parko g.	18	01-Ž	2-1353	937	21	7	7	556211	260304	7
+VVT	Autobusai	18	18	Antakalnis–Dvarčionys–Parko g.	18	02	2-10634	814	10	6	4	556531	260307	5
+VVT	Autobusai	18	18	Antakalnis–Dvarčionys–Parko g.	18	03	2-1801	756	22	7	5	556209	260305	7
+VVT	Autobusai	18	18	Antakalnis–Dvarčionys–Parko g.	18	04	2-1011	78	8	4	0	556635	260308	3
+VVT	Autobusai	18	18	Antakalnis–Dvarčionys–Parko g.	18	05	2-2529	978	23	8	6	556286	260306	6
+VVT	Autobusai	19	19	Stotis–Lydos pl.–Salininkai	19	01-Ž	2-17468	3012	28	9	7	556287	277812	7
+VVT	Autobusai	19	19	Stotis–Lydos pl.–Salininkai	19	02	2-2413	511	28	8	7	556311	277813	7
+VVT	Autobusai	19	19	Stotis–Lydos pl.–Salininkai	19	03	2-1803	743	27	9	4	556539	277811	8
+Privatus	Autobusai	20	20	Žemieji Paneriai–Mūrinė Vokė–Lazdynai	20	01-mt	2-2049	9014	28	8	6	556411	499794	8
+Privatus	Autobusai	20	20	Žemieji Paneriai–Mūrinė Vokė–Lazdynai	20	02-mt	2-3141	9005	27	8	5	556395	499793	7
+Privatus	Autobusai	20	20	Žemieji Paneriai–Mūrinė Vokė–Lazdynai	20	03-mt	2-2793	9012	27	8	5	556488	499795	8
+Privatus	Autobusai	20	20	Žemieji Paneriai–Mūrinė Vokė–Lazdynai	20	04-mt	2-10701	9009	23	6	3	556617	499796	5
+Privatus	Autobusai	20	20	Žemieji Paneriai–Mūrinė Vokė–Lazdynai	20	05	2-496	753	23	7	2	556509	499797	4
+VVT	Autobusai	21	21	Lazdynėliai–Lazdynai–Centras	21	01-Ž	2-818	718	27	9	5	556275	425940	6
+VVT	Autobusai	21	21	Lazdynėliai–Lazdynai–Centras	21	02	2-10671	982	27	7	3	556379	425941	6
+VVT	Autobusai	21	21	Lazdynėliai–Lazdynai–Centras	21	03	2-710	858	9	4	1	556470	425942	2
+VVT	Autobusai	22	22	Lazdynai–Oslo g.–Centras	22	01-Ž	2-10423	981	34	10	7	556257	539455	8
+VVT	Autobusai	22	22	Lazdynai–Oslo g.–Centras	22	02	2-246	752	13	7	6	556461	539458	6
+VVT	Autobusai	22	22	Lazdynai–Oslo g.–Centras	22	03	2-1939	963	34	11	10	556335	539456	10
+VVT	Autobusai	22	22	Lazdynai–Oslo g.–Centras	22	04	2-2942	710	13	7	5	556576	539457	5
+VVT	Autobusai	23	23	Stotis–Švitrigailos g.–Lazdynai	23	01-Ž	2-797	716	26	9	6	556302	539465	8
+VVT	Autobusai	23	23	Stotis–Švitrigailos g.–Lazdynai	23	02	2-923	975	25	8	3	556293	539466	6
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	01-ž	2-3103	980	24	8	4	556176	539471	8
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	02	2-2479	275	10	6	2	556400	539472	5
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	03	2-365	727	24	6	6	556577	539474	6
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	04	2-968	878	11	7	6	556175	539469	7
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	05	2-1614	528	10	6	4	556556	539473	5
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	06	2-449	483	10	2	0	556705	539470	0
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	06	2-854	142	10	1	0	556462	539470	0
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	07	2-407	759	24	7	6	556338	539475	7
+VVT	Autobusai	24	24	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	24	08	2-230	4009	10	4	3	556678	539476	3
+VVT	Autobusai	25	25	Žemieji Paneriai–V. A. Graičiūno g.	25	01	2-193	760	38	12	12	556228	339366	12
+VVT	Autobusai	25	25	Žemieji Paneriai–V. A. Graičiūno g.	25	02	2-132	501	16	7	7	556472	339365	7
+VVT	Autobusai	26	26	Ozo–Didlaukio–Baltupio g.–Bajorai	26	01	2-2849	190	37	12	12	556214	425959	12
+VVT	Autobusai	26	26	Ozo–Didlaukio–Baltupio g.–Bajorai	26	02	2-1782	192	16	7	5	556515	425958	5
+VVT	Autobusai	27	27	Kalvarijų–Tuskulėnų–Olandų–Arimų g.	27	01	2-10370	976	25	9	6	556238	393673	6
+VVT	Autobusai	27	27	Kalvarijų–Tuskulėnų–Olandų–Arimų g.	27	02	2-10384	828	12	5	4	556305	393672	4
+VVT	Autobusai	27	27	Kalvarijų–Tuskulėnų–Olandų–Arimų g.	27	03	2-10679	825	12	4	3	556591	393674	4
+Privatus	Autobusai	28	28	Žemieji Paneriai–Grigiškės	28	01-ž	2-2713	9001	54	18	9	556344	444122	13
+Privatus	Autobusai	28	28	Žemieji Paneriai–Grigiškės	28	02	2-3130	9002	29	13	13	556474	444123	13
+Privatus	Autobusai	28	28	Žemieji Paneriai–Grigiškės	28	03	2-2602	9004	25	13	12	556523	444124	13
+Privatus	Autobusai	28	28	Žemieji Paneriai–Grigiškės	28	04	2-770	9003	23	11	11	556309	444125	11
+VVT	Autobusai	29	29	Savanorių pr.–Lazdynai–Grigiškės	29	01-Ž	2-2499	960	31	10	4	556244	393676	8
+VVT	Autobusai	29	29	Savanorių pr.–Lazdynai–Grigiškės	29	02	2-10581	817	12	6	5	556518	393675	6
+VVT	Autobusai	29	29	Savanorių pr.–Lazdynai–Grigiškės	29	03	2-3003	968	31	10	9	556319	393677	9
+VVT	Autobusai	29	29	Savanorių pr.–Lazdynai–Grigiškės	29	04	2-10002	986	30	7	7	556600	393678	7
+VVT	Autobusai	31	31	Stotis–Pavilnys–Naujoji Vilnia	31	01-Ž	2-547	936	19	6	6	556320	393683	5
+VVT	Autobusai	31	31	Stotis–Pavilnys–Naujoji Vilnia	31	02	2-835	869	10	6	5	556399	393687	6
+VVT	Autobusai	31	31	Stotis–Pavilnys–Naujoji Vilnia	31	03	2-10584	935	19	4	4	556614	393684	4
+VVT	Autobusai	31	31	Stotis–Pavilnys–Naujoji Vilnia	31	04	2-10369	873	9	5	4	556418	393685	5
+VVT	Autobusai	31	31	Stotis–Pavilnys–Naujoji Vilnia	31	05	2-2431	79	20	6	4	556240	393686	6
+VVT	Autobusai	32	32	Žvėrynas–Zujūnai–Gineitiškės–Pašilaičiai	32	01	2-2859	502	25	8	5	556276	549234	5
+VVT	Autobusai	32	32	Žvėrynas–Zujūnai–Gineitiškės–Pašilaičiai	32	02	2-1653	150	12	5	2	556528	549235	2
+VVT	Autobusai	32	32	Žvėrynas–Zujūnai–Gineitiškės–Pašilaičiai	32	03	2-3177	455	25	7	3	556434	549236	4
+VVT	Autobusai	33	33	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	33	01-Ž	2-380	763	24	8	5	556225	476541	6
+VVT	Autobusai	33	33	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	33	02	2-10577	942	10	6	3	556362	476543	5
+VVT	Autobusai	33	33	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	33	03	2-195	967	25	8	8	556229	476542	8
+VVT	Autobusai	34	34	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	34	01-Ž	2-1610	786	18	6	6	556189	476548	6
+VVT	Autobusai	34	34	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	34	02	2-2310	471	9	5	1	556510	476551	3
+VVT	Autobusai	34	34	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	34	03	2-2026	722	18	6	5	556193	476549	5
+VVT	Autobusai	34	34	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	34	04	2-3098	958	18	5	5	556361	476550	5
+VVT	Autobusai	34	34	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	34	05	2-819	147	7	3	1	556663	476552	1
+VVT	Autobusai	35	35	Žalgirio–Kalvarijų g.–Naujieji Verkiai–Ožkiniai	35	01	2-2898	715	23	7	7	556221	444127	7
+VVT	Autobusai	35	35	Žalgirio–Kalvarijų g.–Naujieji Verkiai–Ožkiniai	35	02-ž	2-518	711	22	7	5	556359	444126	7
+VVT	Autobusai	35	35	Žalgirio–Kalvarijų g.–Naujieji Verkiai–Ožkiniai	35	03	2-1747	846	10	4	4	556608	444128	4
+VVT	Autobusai	36	36	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	36	01	2-10636	807	21	6	1	556298	244954	3
+VVT	Autobusai	36	36	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	36	02	2-1896	717	20	6	4	556419	244953	6
+VVT	Autobusai	36	36	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	36	03	2-10359	809	10	4	2	556569	244952	4
+VVT	Autobusai	36	36	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai	66	01	2-2568	952	1	1	1	556173	245092	1
+VVT	Autobusai	37	37	Kalvarijų–Tuskulėnų–Olandų g.–Rokantiškės	37	01	2-200	719	34	12	8	556251	83113	8
+VVT	Autobusai	38	38	Antakalnis–Dvarčionys–Šilėnų g.	38	01	2-476	302	31	10	10	556226	425998	10
+VVT	Autobusai	38	38	Antakalnis–Dvarčionys–Šilėnų g.	38	02	2-227	956	32	11	10	556307	425997	10
+VVT	Autobusai	39	39	Antakalnis–Nemenčinės pl.–Balžio g.	39	01	2-848	796	30	10	10	556219	83120	10
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	01-Ž	2-1386	9316	30	10	8	556342	523702	9
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	02	2-1495	9307	12	6	5	556637	523699	6
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	03	2-10644	9314	30	9	9	556441	523698	9
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	04	2-1074	9303	12	6	3	556668	523701	6
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	05	2-362	9319	30	9	4	556503	523700	7
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	06	2-1571	9306	14	8	6	556547	523703	6
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	07	2-10657	9311	30	8	8	556566	523704	8
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	08	2-1476	9305	12	6	5	556684	523705	6
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	09	2-2417	9315	28	8	8	556597	523706	8
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	10	2-2296	9302	14	7	4	556612	523707	5
+Privatus	Autobusai	40	40	Fabijoniškės–S.Stanevičiaus g.–Centras	40	11	NULL	???	6	0	0	0	523708	0
+VVT	Autobusai	41	41	Stotis–Eišiškių pl.–Užusienis	41	01	2-1716	971	34	10	9	556261	83145	10
+VVT	Autobusai	42	42	Stotis–Eišiškių pl.–Salininkai	42	01-Ž	2-296	729	27	9	5	556205	426022	7
+VVT	Autobusai	42	42	Stotis–Eišiškių pl.–Salininkai	42	02	2-10580	805	12	6	5	556471	426024	6
+VVT	Autobusai	42	42	Stotis–Eišiškių pl.–Salininkai	42	03	2-2743	977	28	9	9	556224	426023	9
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	01-ž	2-1779	158	26	8	6	556310	457238	7
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	02	2-257	545	12	6	6	556479	457236	6
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	03	2-262	622	25	8	6	556172	457235	7
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	04	2-160	428	12	6	2	556532	457237	3
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	05	2-824	603	25	7	5	556412	457240	6
+VVT	Autobusai	43	43	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	43	06	2-1447	336	22	6	1	556626	457239	2
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	01	2-2021	995	28	9	7	556236	426029	7
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	02	2-9992	801	12	6	3	556512	426031	3
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	02	EBK144	801R	12	0	0	556513	426031	0
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	03-ž	2-10380	983	28	9	6	556331	426030	7
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	04	2-579	4011	28	8	3	556420	426032	4
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	05	2-3138	713	12	5	3	556622	426033	4
+VVT	Autobusai	46	46	Pašilaičiai–A.Goštauto g.–Centras	46	06	2-2014	961	26	8	3	556410	426034	4
+VVT	Autobusai	48	48	Šeškinė–Pašilaičiai–Santariškės	48	01-Ž	2-2389	985	23	7	7	556349	426041	7
+VVT	Autobusai	48	48	Šeškinė–Pašilaičiai–Santariškės	48	02	2-1802	767	24	7	6	556178	426042	6
+VVT	Autobusai	48	48	Šeškinė–Pašilaičiai–Santariškės	48	03	2-1825	768	22	7	3	556460	426043	4
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	01-Ž	2-726	782	17	5	3	556183	426044	4
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	02	2-11705	946	16	5	1	556507	426047	4
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	03	2-2863	964	17	5	2	556300	426046	5
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	04	2-2384	988	16	3	1	556687	426049	1
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	04	2-2589	792	16	1	0	556385	426049	1
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	05	2-10647	816	7	3	0	556525	426045	0
+VVT	Autobusai	49	49	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	49	06	2-1899	765	7	3	1	556511	426048	3
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	01-Ž	2-10393	941	20	7	4	556239	426056	5
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	02	2-2268	842	9	5	4	556522	426057	5
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	03	2-482	751	21	6	5	556350	426058	5
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	04	2-10700	840	10	4	1	556437	426059	2
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	05	2-973	984	20	5	2	556475	426060	4
+VVT	Autobusai	50	50	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	50	06	2-348	890	9	5	2	556570	426061	3
+VVT	Autobusai	51	51	Žemieji Paneriai–Trakų Vokė–Daniliškės	51	01	2-10337	940	34	11	8	556227	449658	10
+VVT	Autobusai	52	52	Centras–Ukmergės g.–Tarandė	52	01	2-10454	948	23	8	3	556272	426070	7
+VVT	Autobusai	52	52	Centras–Ukmergės g.–Tarandė	52	02	2-724	943	24	8	5	556313	426069	6
+VVT	Autobusai	52	52	Centras–Ukmergės g.–Tarandė	52	03	2-2833	962	24	7	3	556447	426071	5
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	01	2-280	745	20	6	3	556277	476553	4
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	02	2-2913	470	8	4	2	556456	476554	3
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	03-Ž	2-11476	996	20	6	4	556371	476555	5
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	04	2-509	125	8	4	1	556594	476556	3
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	05	2-3176	477	20	6	3	556254	476557	6
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	06	2-1192	473	8	4	3	556610	476563	4
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	07-Ž	2-333	998	20	6	5	556266	476559	5
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	08	2-3049	141	8	4	1	556659	476561	3
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	09	2-1381	517	20	6	5	556384	476560	5
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	10	2-17405	4014	20	6	4	556440	476562	6
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	11	2-592	4016	20	5	3	556406	476558	4
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	12	2-586	400	8	4	2	556682	476564	3
+VVT	Autobusai	53	53	Fabijoniškės–Kalvarijų–Pylimo g.–Stotis	53	13	2-2957	702	20	5	3	556562	476565	3
+VVT	Autobusai	54	54	Pilaitė–Lazdynai–Stotis	54	01-Ž	2-3140	496	21	7	6	556290	457222	6
+VVT	Autobusai	54	54	Pilaitė–Lazdynai–Stotis	54	02	2-203	623	9	5	3	556530	457224	3
+VVT	Autobusai	54	54	Pilaitė–Lazdynai–Stotis	54	03	2-2706	456	21	6	3	556423	457223	5
+VVT	Autobusai	55	55	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	55	01-Ž	2-1918	784	17	5	3	556243	426105	4
+VVT	Autobusai	55	55	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	55	02	2-3070	651	7	2	0	556365	426106	1
+VVT	Autobusai	55	55	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	55	03	2-690	758	17	5	1	556357	426107	3
+VVT	Autobusai	55	55	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	55	04	2-10560	804	7	3	0	556602	426108	1
+VVT	Autobusai	55	55	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	55	05	2-515	934	17	5	3	556347	426109	3
+Privatus	Autobusai	56	56	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	56	01-ž	2-10642	9313	26	9	8	556402	523709	7
+Privatus	Autobusai	56	56	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	56	02	2-10685	9308	12	6	3	556609	523710	5
+Privatus	Autobusai	56	56	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	56	03	2-10356	9309	28	9	8	556274	523711	9
+Privatus	Autobusai	56	56	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	56	04	2-2182	9318	26	8	6	556500	523712	7
+Privatus	Autobusai	56	56	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	56	05	2-10343	9310	4	4	3	556689	523713	4
+VVT	Autobusai	57	57	Fabijoniškės–Ateities g.–Jeruzalė–Bajorai	57	01	2-1723	188	34	12	11	556283	432585	11
+VVT	Autobusai	58	58	Stotis–Dzūkų g.–Minsko pl.–Kalnėnai–Guriai	58	01	2-10482	826	33	10	7	556241	444135	8
+VVT	Autobusai	58	58	Stotis–Dzūkų g.–Minsko pl.–Kalnėnai–Guriai	58	02	2-10403	815	14	8	6	556216	444136	7
+VVT	Autobusai	59	59	Grigiškės–Lazdynai–Laisvės pr.–Žvėrynas	59	01-Ž	NULL	???	24	0	0	0	523114	0
+VVT	Autobusai	59	59	Grigiškės–Lazdynai–Laisvės pr.–Žvėrynas	59	02	2-181	499	10	5	4	556492	523113	4
+VVT	Autobusai	59	59	Grigiškės–Lazdynai–Laisvės pr.–Žvėrynas	59	03	2-1236	624	25	8	6	556281	523115	7
+Privatus	Autobusai	61	61	Stotis–Nemėžis–Kuprioniškės	61	01-mt	2-2761	9203	38	13	8	556453	211796	12
+Privatus	Autobusai	61	61	Stotis–Nemėžis–Kuprioniškės	61	02-mt	2-17403	9209	18	8	8	556538	211797	8
+Privatus	Autobusai	61	61	Stotis–Nemėžis–Kuprioniškės	61	03-mt	2-1990	9206	38	12	9	556487	211799	11
+Privatus	Autobusai	61	61	Stotis–Nemėžis–Kuprioniškės	61	04-mt	2-1830	9210	18	8	7	556574	211798	8
+VVT	Autobusai	63	63	Žvėrynas–Pilaitės pr.–Karveliškės	63	01	2-2015	966	28	10	6	556337	465946	7
+VVT	Autobusai	65	65	Ožkiniai–Naujieji Verkiai–Balsių g.–Pagubė–Bireliai	65	01	2-703	797	16	5	3	556582	476566	3
+VVT	Autobusai	65	65	Ožkiniai–Naujieji Verkiai–Balsių g.–Pagubė–Bireliai	65	02	2-2463	191	16	5	4	556691	476567	5
+VVT	Autobusai	66	66	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai	66	01	2-2568	952	20	6	4	556173	245092	5
+VVT	Autobusai	66	66	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai	66	02	2-500	799	12	6	4	556493	245091	5
+VVT	Autobusai	67	67	Kalno–Parko g.–Mickūnai	67	01	2-513	789	29	10	3	556215	426127	9
+VVT	Autobusai	68	68	Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės	68	01	2-2030	950	24	8	6	556190	539487	7
+VVT	Autobusai	68	68	Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės	68	02	2-2547	653	10	6	3	556480	539488	4
+VVT	Autobusai	68	68	Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės	68	02	RVP452	653R	10	0	0	556481	539488	0
+VVT	Autobusai	68	68	Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės	68	03	2-494	726	24	6	6	556312	539489	6
+VVT	Autobusai	69	69	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.	69	01-Ž	2-298	755	18	6	5	556268	426131	5
+VVT	Autobusai	69	69	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.	69	02	2-247	728	8	3	0	556552	426132	2
+VVT	Autobusai	69	69	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.	69	03	2-2875	959	16	5	2	556380	426130	4
+VVT	Autobusai	69	69	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.	69	04	2-2598	788	16	5	1	556473	426133	3
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	01	2-3188	505	22	7	3	556368	457252	4
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	02	2-2380	153	10	3	0	556696	457251	2
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	03	2-3143	454	21	6	5	556605	457250	5
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	04	2-1370	595	8	3	1	556651	457254	3
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	05	2-10375	293	21	5	2	556529	457253	4
+VVT	Autobusai	73	73	Justiniškės–Centras–Naugarduko g.–Vilkpėdė	73	05	2-2396	498	21	1	0	556297	457253	0
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	01	2-83	757	11	2	1	556292	426138	2
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	02	2-705	57	12	8	7	556348	426140	8
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	03	2-861	721	28	9	8	556235	426139	9
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	04	2-10567	3014	13	6	5	556438	426141	5
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	05	2-1085	974	28	9	7	556325	426142	8
+VVT	Autobusai	74	74	Stotis–Subačiaus–Parko g.	74	06	2-2442	476	13	6	4	556526	426143	5
+VVT	Autobusai	75	75	Santariškės–Šeškinė–Pilaitė	75	01-Ž	2-3162	497	16	5	2	556191	457230	2
+VVT	Autobusai	75	75	Santariškės–Šeškinė–Pilaitė	75	02	2-3159	621	8	4	0	556409	457232	0
+VVT	Autobusai	75	75	Santariškės–Šeškinė–Pilaitė	75	03	2-1346	597	16	5	2	556197	457231	4
+VVT	Autobusai	75	75	Santariškės–Šeškinė–Pilaitė	75	04	2-1685	504	8	4	0	556497	457233	4
+VVT	Autobusai	75	75	Santariškės–Šeškinė–Pilaitė	75	05	2-2986	494	16	5	1	556301	457234	2
+VVT	Autobusai	76	76	Ateities st.–Sakališkės–Bireliai	76	01	2-1991	790	23	7	4	556343	444137	6
+VVT	Autobusai	76	76	Ateities st.–Sakališkės–Bireliai	76	02	2-1874	791	24	7	7	556486	444138	7
+VVT	Autobusai	76	76	Ateities st.–Sakališkės–Bireliai	76	02	BRN735	791R	24	0	0	556491	444138	0
+VVT	Autobusai	78	78	Stotis–Eišiškių pl.–Pagiriai	78	01	2-644	938	24	8	2	556255	539495	7
+VVT	Autobusai	78	78	Stotis–Eišiškių pl.–Pagiriai	78	02	2-1636	527	10	6	6	556505	539494	6
+VVT	Autobusai	78	78	Stotis–Eišiškių pl.–Pagiriai	78	03	2-1663	972	24	7	4	556327	539496	6
+VVT	Autobusai	82	82	Stotis–Salininkai–Miškiniai–Juodšiliai	82	01	2-2774	973	28	9	4	556212	277845	7
+VVT	Autobusai	82	82	Stotis–Salininkai–Miškiniai–Juodšiliai	82	02	2-2288	953	26	8	4	556391	277846	6
+VVT	Autobusai	87	87	Ozo–Didlaukio g.–Molėtų pl.–Riešė–Bendorėliai–Šeškinė	87	01	2-2783	965	13	4	3	556202	476568	4
+VVT	Autobusai	87	87	Ozo–Didlaukio g.–Molėtų pl.–Riešė–Bendorėliai–Šeškinė	87	02	2-10681	949	10	4	1	556443	476569	4
+VVT	Autobusai	87	87	Ozo–Didlaukio g.–Molėtų pl.–Riešė–Bendorėliai–Šeškinė	87	03	2-252	769	11	4	2	556201	476570	4
+VVT	Autobusai	87	87	Ozo–Didlaukio g.–Molėtų pl.–Riešė–Bendorėliai–Šeškinė	87	04	2-361	787	13	4	1	556206	476571	4
+VVT	Autobusai	87	87	Ožkiniai–Naujieji Verkiai–Balsių g.–Pagubė–Bireliai	65	01	NULL	???	2	0	0	0	476566	0
+VVT	Autobusai	87	87	Ožkiniai–Naujieji Verkiai–Balsių g.–Pagubė–Bireliai	65	02	NULL	???	2	0	0	0	476567	0
+VVT	Autobusai	88	88	Oro uostas–Centras–Europos aikštė	88	01	2-2054	920	25	8	5	556208	463368	6
+VVT	Autobusai	88	88	Oro uostas–Centras–Europos aikštė	88	02	2-376	919	26	8	6	556210	463367	7
+VVT	Autobusai	88	88	Oro uostas–Centras–Europos aikštė	88	03	2-1694	917	24	8	4	556390	463366	5
+VVT	Autobusai	101N	101	Saulėtekis–Žygimantų g.–Savanorių–Laisvės pr.–Fabijoniškės	101N	01	NULL	???	3	0	0	0	538208	0
+VVT	Autobusai	101N	101	Saulėtekis–Žygimantų g.–Savanorių–Laisvės pr.–Fabijoniškės	101N	02	NULL	???	2	0	0	0	538209	0
+VVT	Autobusai	101N	101	Saulėtekis–Žygimantų g.–Savanorių–Laisvės pr.–Fabijoniškės	101N	03	NULL	???	2	0	0	0	538210	0
+VVT	Autobusai	102N	102	Pilaitė–Žvėrynas–Žygimantų–Maironio g.–Stotis	102N	01	NULL	???	4	0	0	0	538211	0
+VVT	Autobusai	102N	102	Pilaitė–Žvėrynas–Žygimantų–Maironio g.–Stotis	102N	02	NULL	???	4	0	0	0	538212	0
+VVT	Autobusai	103N	103	Santariškės–Didlaukio–Kalvarijų–Pylimo g.–Stotis–Gerosios Vilties st.	103N	01	NULL	???	4	0	0	0	538213	0
+VVT	Autobusai	103N	103	Santariškės–Didlaukio–Kalvarijų–Pylimo g.–Stotis–Gerosios Vilties st.	103N	02	NULL	???	3	0	0	0	538214	0
+VVT	Autobusai	103N	103	Santariškės–Didlaukio–Kalvarijų–Pylimo g.–Stotis–Gerosios Vilties st.	103N	03	NULL	???	3	0	0	0	538215	0
+VVT	Autobusai	104N	104	Ateities–Žirmūnų–Pylimo g.–Naujininkai	104N	01	NULL	???	4	0	0	0	538216	0
+VVT	Autobusai	104N	104	Ateities–Žirmūnų–Pylimo g.–Naujininkai	104N	02	NULL	???	3	0	0	0	538217	0
+VVT	Autobusai	105N	105	Pašilaičiai–Šeškinė–Konstitucijos pr.–Žygimantų g.–Polocko st.	105N	01	NULL	???	6	0	0	0	538218	0
+VVT	Autobusai	105N	105	Pašilaičiai–Šeškinė–Konstitucijos pr.–Žygimantų g.–Polocko st.	105N	02	NULL	???	4	0	0	0	538219	0
+Privatus	Autobusai	114	114	Saulėtekis–Kairėnų g.–Vinciūniškės	114	01-mt	2-2786	9208	44	15	11	556551	499798	11
+VVT	Autobusai	115	115	Antakalnis–Rokantiškės–Parko g.	115	01	2-10489	591	24	8	7	556188	517159	7
+VVT	Autobusai	115	115	Antakalnis–Rokantiškės–Parko g.	115	02	2-2025	198	22	4	1	556544	517160	2
+VVT	Autobusai	115	115	Antakalnis–Rokantiškės–Parko g.	115	02	2-1842	197	22	1	0	556720	517160	0
+VVT	Autobusai	115	115	Antakalnis–Rokantiškės–Parko g.	115	03	2-2044	199	34	10	8	556372	517161	10
+VVT	Autobusai	115	115	Antakalnis–Rokantiškės–Parko g.	115	04	2-245	196	34	10	6	556354	517162	8
+Privatus	Autobusai	116	116	Žvėrynas–Gudelių šilas–Lazdynai–Ungurių g.	116	01	2-2737	9008	28	8	1	556508	426163	1
+Privatus	Autobusai	116	116	Žvėrynas–Gudelių šilas–Lazdynai–Ungurių g.	116	02	2-71	9013	26	9	7	556425	426164	8
+VVT	Troleibusai	1	1	Karoliniškės–Žvėrynas–Stotis	1	01	3-263	2665	24	8	7	556280	427792	8
+VVT	Troleibusai	1	1	Karoliniškės–Žvėrynas–Stotis	1	02Ž	3-2222	2714	24	5	3	556686	427790	3
+VVT	Troleibusai	1	1	Karoliniškės–Žvėrynas–Stotis	1	03	3-2466	2667	25	8	7	556322	427791	8
+VVT	Troleibusai	1	1	Karoliniškės–Žvėrynas–Stotis	1	04	3-2331	2620	26	8	4	556397	427793	5
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	01	3-10368	1710	23	8	6	556218	474467	6
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	02Ž	3-10353	1709	22	6	6	556428	474462	6
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	03	3-68	1632	21	7	5	556326	474456	6
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	04M	3-10391	1703	20	5	5	556590	474463	5
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	05	3-10643	1675	24	8	7	556303	474465	8
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	06	3-1296	1633	22	5	5	556624	474454	5
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	07	3-10593	1679	22	7	6	556340	474466	6
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	08	3-2829	1542	20	7	7	556386	474453	7
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	09	3-2720	1133	10	4	4	556648	474458	4
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	10M	3-10651	1698	24	7	5	556358	474460	7
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	11	3-3001	1659	21	5	3	556606	474464	4
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	12Ž	3-1689	1701	20	6	6	556450	474461	6
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	13	3-2685	1552	23	7	5	556401	474468	7
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	14	3-1713	1680	22	6	3	556537	474455	4
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	15	3-2540	1553	10	4	4	556664	474459	4
+VVT	Troleibusai	2	2	Saulėtekis–Žygimantų g.–Stotis	2	16	3-1737	1676	23	6	4	556541	474457	4
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-1949	2551	24	7	5	556364	427913	6
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-156	1495	24	0	0	556715	427913	0
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-82	1506	24	0	0	556717	427913	0
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-238	1563	24	0	0	556718	427913	0
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-780	1608	24	0	0	556716	427913	0
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	01	3-1543	1625	24	0	0	556719	427913	0
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	02	3-2000	2560	10	4	2	556628	427911	3
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	03	3-2941	1124	22	5	4	556549	427915	4
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	04	3-3010	2589	10	3	1	556700	427914	2
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	05	3-2801	2621	24	7	5	556416	427912	7
+VVT	Troleibusai	3	3	Karoliniškės–Žvėrynas–Šeimyniškių g.	3	06	3-1976	1649	22	6	3	556517	427916	6
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	01	3-729	1108	18	5	4	556484	475877	4
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	02	3-2733	1592	8	4	3	556620	475880	3
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	03	3-3132	1634	17	6	5	556207	475867	6
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	03	3-3178	1555	17	0	0	556195	475867	0
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	04	3-2604	1109	8	4	3	556640	475878	4
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	05	3-3071	1637	18	6	6	556246	475876	6
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	06	3-2583	1554	8	3	3	556670	475866	3
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	07	3-3178	1555	18	6	6	556306	475879	6
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	08	3-2574	1597	8	4	3	556536	475865	3
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	09M	3-186	1531	18	5	3	556555	475868	4
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	10	3-2935	1494	8	4	3	556370	475869	3
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	11Ž	3-10699	1707	18	5	5	556567	475875	5
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	12	3-3161	1448	8	4	4	556683	475870	4
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	13	3-10689	1682	18	5	2	556404	475873	4
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	14	3-2729	1492	8	3	2	556707	475874	2
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	15	3-437	1635	18	6	4	556464	475871	5
+VVT	Troleibusai	4	4	Antakalnis–Centras–Žemieji Paneriai	4	16M	3-10382	1674	17	4	4	556521	475872	4
+VVT	Troleibusai	4	4	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	04	3-125	2536	2	2	2	556184	475909	2
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	01	3-2772	1567	17	5	2	556196	475774	2
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	02	3-2845	1544	7	3	1	556498	475767	1
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	03	3-2699	1131	16	4	3	556465	475769	4
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	04	3-2792	1605	8	3	2	556604	475777	2
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	05Ž	3-10631	1681	18	6	3	556203	475771	4
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	06	3-2871	1640	16	4	0	556542	475772	1
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	07	3-22	1596	8	3	2	556669	475778	3
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	08Ž	3-1692	1700	18	6	2	556263	475773	5
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	09	3-859	1533	18	5	3	556323	475779	4
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	10	3-2536	1103	8	3	0	556658	475775	0
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	11	3-2552	1112	17	5	2	556388	475770	3
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	12	3-229	1132	16	5	4	556452	475776	4
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	13	3-1743	1586	16	5	3	556482	475780	3
+VVT	Troleibusai	6	6	Žirmūnai–Kalvarijų–J. Basanavičiaus g.–Žemieji Paneriai	6	14	3-2666	1540	8	4	1	556534	475768	1
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	01	3-2428	2688	23	7	5	556249	475896	5
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	02	3-1542	2485	10	4	3	556623	475899	4
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	03Ž	3-1878	2715	21	5	2	556632	475882	3
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	04	3-1913	2463	10	4	2	556627	475883	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	05	3-1989	2539	21	5	1	556675	475881	1
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	06	3-2478	2452	10	6	3	556245	475894	4
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	07M	3-2825	2518	22	7	5	556413	475903	7
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	08	3-190	2561	10	3	1	556695	475895	1
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	09Ž	3-9995	2712	21	7	5	556187	475897	5
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	10	3-2867	2128	8	4	4	556330	475888	4
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	11	3-1945	2626	8	4	2	556656	475893	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	12M	3-140	2528	20	5	3	556581	475902	3
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	13	3-122	2548	9	4	2	556439	475887	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	14	3-2038	2564	9	4	2	556494	475892	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	15	3-1748	2694	18	2	1	556408	475898	1
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	16	3-225	2648	9	4	2	556527	475900	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	17	3-2854	2647	20	6	3	556483	475904	3
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	18	3-2607	2130	10	4	2	556545	475901	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	19	3-2560	2125	20	7	6	556204	475905	7
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	20	3-1992	2546	10	5	3	556415	475884	3
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	20	3-1542	2485	10	0	0	556603	475884	0
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	21	3-2882	2671	22	6	4	556369	475885	4
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	22	3-2905	2602	9	4	2	556568	475886	2
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	23	3-2341	2696	22	7	5	556296	475889	5
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	24	3-2538	2507	9	4	3	556585	475890	4
+VVT	Troleibusai	7	7	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	25	3-2495	2603	9	4	3	556595	475891	4
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	01	3-1423	2711	24	7	5	556376	474471	7
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	02	3-1938	2521	12	2	1	556712	474470	1
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	02	3-129	2593	12	2	1	556449	474470	1
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	03	3-2575	1591	10	4	2	556662	474478	3
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	04	3-2453	1672	24	8	6	556345	474472	7
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	05	3-2549	1607	10	4	3	556598	474477	3
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	06Ž	3-2108	2695	24	7	7	556467	474473	7
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	07	3-2555	1545	10	4	2	556599	474474	3
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	08	3-1824	1666	24	7	6	556427	474475	7
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	09	3-1897	1115	10	4	3	556644	474476	4
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	10	3-783	1496	24	7	6	556490	474479	7
+VVT	Troleibusai	9	9	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	9	11	3-1569	2623	10	4	2	556661	474480	4
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	01	3-2621	1609	18	6	4	556314	428062	5
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	02	3-314	1106	8	4	3	556607	428063	4
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	03	3-2037	1627	18	6	5	556393	428064	6
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	04	3-746	1639	8	4	2	556698	428059	4
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	05	3-2663	1658	18	5	1	556553	428060	4
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	06	3-3076	1642	18	5	3	556426	428066	3
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	07	3-2532	1652	17	4	3	556304	428061	4
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	08	3-1502	1559	8	4	1	556615	428068	3
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	09	3-802	1638	17	5	4	556377	428067	5
+VVT	Troleibusai	10	10	Saulėtekis–Kalvarijų g.–Naujininkai	10	10	3-1283	1653	17	4	2	556571	428065	3
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	01	3-2707	1656	16	6	4	556192	475801	6
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	02	3-3150	1619	16	4	3	556641	475803	4
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	03	3-119	1113	8	3	0	556649	475797	0
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	04	3-3297	1657	16	5	4	556269	475804	5
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	05	3-131	1618	16	5	5	556341	475800	5
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	06Ž	3-3066	1677	16	5	2	556394	475802	3
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	07	3-2571	1118	8	2	2	556463	475798	2
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	08	3-126	1615	16	5	4	556392	475799	4
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	09	3-121	1616	16	4	3	556559	475805	3
+VVT	Troleibusai	12	12	Žirmūnai–Šeimyniškių–J. Basanavičiaus g.–Žemieji Paneriai	12	10	3-2594	1628	16	4	4	556561	475806	4
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	01	3-164	2510	10	3	2	556681	475906	3
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	01	3-2097	2598	10	0	0	556317	475906	0
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	02	3-1887	2566	10	5	4	556186	475907	5
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	03	3-2869	2499	10	5	3	556417	475910	3
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	04	3-125	2536	7	3	2	556184	475909	3
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	05	NULL	???	6	0	0	0	475908	0
+VVT	Troleibusai	13	13	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	06	3-2490	2129	10	4	4	556514	475911	4
+VVT	Troleibusai	14	14	Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.	14	01	3-2561	1119	20	6	4	556346	475819	4
+VVT	Troleibusai	14	14	Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.	14	02	3-2777	1641	19	5	3	556421	475820	4
+VVT	Troleibusai	14	14	Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.	14	03	3-24	1543	9	4	2	556645	475823	4
+VVT	Troleibusai	14	14	Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.	14	04	3-3064	1513	19	6	4	556230	475821	6
+VVT	Troleibusai	14	14	Saulėtekis–Šeimyniškių–J. Basanavičiaus g.–Gerosios Vilties st.	14	05	3-2865	1514	9	4	0	556477	475822	2
+VVT	Troleibusai	15	15	Stotis–Žemieji Paneriai–Titnago g.	15	01	3-786	1562	12	7	6	556270	428126	7
+VVT	Troleibusai	15	15	Stotis–Žemieji Paneriai–Titnago g.	15	02	3-2955	1107	12	5	3	556499	428128	4
+VVT	Troleibusai	15	15	Stotis–Žemieji Paneriai–Titnago g.	15	03	3-1895	1530	12	5	5	556382	428127	5
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	01	3-1873	2673	20	7	5	556267	428129	5
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	02	3-1960	2613	10	4	1	556580	428132	1
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	03Ž	3-1776	2691	20	5	2	556611	428131	3
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	04	3-2141	2718	20	7	6	556260	428138	7
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	05	3-2476	2645	8	4	3	556639	428141	4
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	06	3-2675	2685	20	5	4	556660	428133	5
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	07	3-2601	2490	20	6	5	556375	428130	6
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	08	3-100	2114	9	4	1	556671	428143	2
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	09	3-2459	2663	20	6	4	556445	428139	4
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	10	3-2228	2717	19	4	1	556706	428140	2
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	11Ž	3-10562	2716	20	6	4	556533	428137	4
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	12	3-2800	2549	9	4	2	556657	428144	2
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	13	3-10625	2684	19	7	5	556248	428136	5
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	14	3-2894	2622	20	5	1	556543	428134	2
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	15	3-62	2611	9	4	2	556701	428142	2
+VVT	Troleibusai	16	16	Pašilaičiai–Lazdynai–Stotis	16	16Ž	3-10399	2686	19	5	1	556299	428135	3
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	01Ž	3-10388	1706	20	6	6	556407	510410	6
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	02	3-2648	1508	8	4	4	556619	510412	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	03	3-2522	1662	20	6	4	556495	510419	6
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	04	3-3293	1599	8	4	4	556646	510422	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	05	3-3097	1630	21	7	7	556237	510416	7
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	06	3-2642	1110	8	4	2	556618	510417	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	07Ž	3-10389	1699	19	6	6	556321	510413	6
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	08	3-2567	1661	20	5	5	556560	510420	5
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	09	3-844	1617	8	4	4	556676	510415	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	10	3-418	1629	19	6	6	556414	510411	6
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	11	3-11	1556	8	4	3	556685	510423	3
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	12	3-2528	1431	21	6	6	556333	510414	6
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	13	3-2778	1590	8	3	2	556692	510421	3
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	14	3-3009	1631	20	5	4	556583	510418	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	15	3-17	1594	9	4	4	556588	510424	4
+VVT	Troleibusai	17	17	Žirmūnai–Naujininkai	17	16	3-2144	1702	19	4	4	556563	510425	4
+VVT	Troleibusai	18	18	Pašilaičiai–Justiniškės–Žemieji Paneriai–Titnago g.	18	01	3-2491	2670	19	6	5	556177	475913	6
+VVT	Troleibusai	18	18	Pašilaičiai–Justiniškės–Žemieji Paneriai–Titnago g.	18	02	3-1985	2646	20	7	7	556294	475914	7
+VVT	Troleibusai	18	18	Pašilaičiai–Justiniškės–Žemieji Paneriai–Titnago g.	18	03	3-1942	2668	20	6	5	556422	475912	6
+VVT	Troleibusai	18	18	Pašilaičiai–Justiniškės–Žemieji Paneriai–Titnago g.	18	04	3-1930	2606	10	4	3	556625	475915	4
+VVT	Troleibusai	18	18	Pašilaičiai–Justiniškės–Žvėrynas–Stotis	7	15	3-1748	2694	4	4	1	556408	475898	2
+VVT	Troleibusai	18	18	Pašilaičiai—Justiniškės—Žemieji Paneriai	13	05	3-1941	2135	4	4	3	556451	475908	4
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	01	3-216	2472	16	5	4	556295	474485	4
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	02	3-1877	1127	16	4	0	556673	474488	0
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	03	3-2070	2693	18	5	3	556360	474495	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	04	3-1964	2470	18	5	3	556436	474484	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	05	3-81	1557	8	4	2	556587	474486	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	06Ž	3-10654	2690	17	5	3	556466	474483	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	07	3-98	1643	8	4	1	556674	474493	2
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	08	3-2017	2441	16	2	0	556711	474481	0
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	08	3-10687	2683	16	0	0	556506	474481	0
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	09	3-2688	1111	18	5	3	556250	474487	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	10	3-2794	2478	8	4	1	556554	474491	1
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	11	3-2819	2624	16	4	3	556578	474494	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	12	3-2881	2582	8	4	1	556558	474492	1
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	13	3-2128	1123	17	5	3	556405	474482	5
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	14	3-2681	1512	17	5	2	556378	474490	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	15	3-2035	2121	8	3	1	556647	474496	3
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	16	3-2624	1458	16	3	2	556524	474489	2
+VVT	Troleibusai	19	19	Pašilaičiai–Konstitucijos pr.–Antakalnis–Saulėtekis	19	17	3-1995	2588	8	3	0	556638	474497	3
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	01	3-1875	1655	24	8	6	556185	428249	6
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	02	3-2620	1651	22	6	6	556601	428246	6
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	03	3-2630	1134	10	4	3	556699	428251	4
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	04	3-2723	1117	24	8	8	556398	428247	8
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	05	3-2357	1720	22	5	4	556650	428248	4
+VVT	Troleibusai	20	20	Žirmūnai–Žygimantų–Pylimo g.–Stotis	20	06	3-2700	1660	24	7	6	556489	428250	6
+VVT	Troleibusai	21	21	Saulėtekis–Šilo tiltas–Žirmūnai	21	01	3-3114	1610	28	8	8	556550	428256	8
+VVT	Troleibusai	21	21	Saulėtekis–Šilo tiltas–Žirmūnai	21	02	3-2605	1612	27	8	8	556540	428257	8
+VVT	Troleibusai	21	21	Saulėtekis–Šilo tiltas–Žirmūnai	21	03	3-2616	1636	14	6	4	556586	428258	4
