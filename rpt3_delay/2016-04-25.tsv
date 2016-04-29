@@ -61,6 +61,7 @@
 555917	2-703	797	B>A	Markučiai–Baltupiai–Fabijoniškės	1184	1184	-1	Arkikatedra	1194.9	3.5	Baltupiai	1216.2	10	Autobusai	10	07
 555917	2-703	797	A>B	Fabijoniškės–Baltupiai–Markučiai	1256	1253	-0.80000001	Didlaukio st.	1265.4	4	Užupio st.	1291.2	10	Autobusai	10	07
 555917	2-703	797	B>A	Markučiai–Baltupiai–Fabijoniškės	1299	1300	0.1	Kalvarijų turgus	1317.7	3.2	Baltupiai	1330	10	Autobusai	10	07
+555917	2-703	797	B>A	Markučiai–Baltupiai–Fabijoniškės	1396	1395	-3.0999999	Žaliasis tiltas	1409.3	-0.60000002	Užupio st.	1400.7	10	Autobusai	10	07
 556011	2-547	936	A>B	Fabijoniškės–Baltupiai–Markučiai	403	403	-4.1999998	Karaliaus Mindaugo tiltas	434	0.69999999	Antano Jonyno st.	406.20001	10	Autobusai	10	08
 556011	2-547	936	A>B	Fabijoniškės–Baltupiai–Markučiai	508	508	-3.8	Karaliaus Mindaugo tiltas	540.20001	0.80000001	Antano Jonyno st.	511.29999	10	Autobusai	10	08
 556011	2-547	936	B>A	Markučiai–Baltupiai–Fabijoniškės	560	560	-3.0999999	Antano Jonyno st.	599.79999	2.2	Užupio st.	567.5	10	Autobusai	10	08
@@ -176,6 +177,7 @@
 556082	2-2457	9204	B>A	Vilkpėdė–Stotis–Markučiai–Žemasis Pavilnys	997	997	0.1	Burbiškės	999.20001	3.7	Zarasų st.	1019.5	13	Autobusai	13	04-mt
 556082	2-2457	9204	A>B	Žemasis Pavilnys–Markučiai–Stotis–Vilkpėdė	1027	1027	-0.89999998	Markučiai	1031.2	9	Burbiškės	1059.4	13	Autobusai	13	04-mt
 556082	2-2457	9204	B>A	Vilkpėdė–Stotis–Markučiai–Žemasis Pavilnys	1067	1067	0.1	Burbiškės	1069.2	4.0999999	Subačiaus st.	1088.7	13	Autobusai	13	04-mt
+556082	2-2457	9204	B>A	Vilkpėdė–Stotis–Markučiai–Žemasis Pavilnys	1354	1355	-3.0999999	Tuputiškės	1374.3	1.1	Vilkpėdės žiedas	1355.4	13	Autobusai	13	04-mt
 555605	2-507	762	B>A	Arimų g.–Parko g.–Grigaičiai	495	496	1.3	Arimų st.	496.29999	3.0999999	Tremtinių st.	509.89999	14	Autobusai	14	01
 555605	2-507	762	B>A	Arimų g.–Parko g.–Grigaičiai	859	861	1.3	Rytų st.	878.79999	4	Grigaičiai	886.79999	14	Autobusai	14	01
 555863	2-442	593	A>B	Žolyno g.–Antakalnis–Turniškės	447	448	0.2	Bistryčios st.	449.89999	7.5999999	Mėlynių st.	468.29999	15	Autobusai	15	01-Ž
@@ -247,6 +249,7 @@
 556128	2-496	753	B>A	Parko g.–Dvarčionys–Antakalnis	1199	1201	-1.5	Keramikų st.	1225.2	4	Alberto Kojelavičiaus st.	1211.5	18	Autobusai	18	05
 556128	2-496	753	A>B	Antakalnis–Dvarčionys–Parko g.	1275	1279	-2.8	Tremtinių st.	1308.3	4.9000001	Antakalnio žiedas	1280.2	18	Autobusai	18	05
 556128	2-496	753	B>A	Parko g.–Dvarčionys–Antakalnis	1321	1323	-2.9000001	Keramikų st.	1344.8	3.4000001	Alberto Kojelavičiaus st.	1331.8	18	Autobusai	18	05
+556128	2-496	753	B>A	Parko g.–Dvarčionys–Antakalnis	1406	1410	-2	Nemenčinės plentas	1438.8	4.6999998	Tremtinių st.	1414.5	18	Autobusai	18	05
 555668	2-605	746	B>A	Salininkai–Lydos pl.–Stotis	355	355	-0.1	Salininkai	359	3.5999999	Lydos st.	369.70001	19	Autobusai	19	01-Ž
 555668	2-605	746	A>B	Stotis–Lydos pl.–Salininkai	389	391	1.8	Stotis	390.89999	4.3000002	Salininkai	415.39999	19	Autobusai	19	01-Ž
 555668	2-605	746	B>A	Salininkai–Lydos pl.–Stotis	427	427	-0.69999999	Salininkai	430.29999	6	Žirnių st.	451.29999	19	Autobusai	19	01-Ž
@@ -278,6 +281,8 @@
 555894	2-588	3009	A>B	Stotis–Lydos pl.–Salininkai	1025	1026	-0.30000001	Stotis	1024.8	8.6000004	Kelininkų st.	1043.7	19	Autobusai	19	02
 555894	2-588	3009	B>A	Salininkai–Lydos pl.–Stotis	1061	1061	-1.5	Salininkai	1063.5	7.0999999	Žirnių st.	1086.4	19	Autobusai	19	02
 555894	2-588	3009	B>A	Salininkai–Lydos pl.–Stotis	1256	1258	-1.4	Pelesos st.	1279.5	3.4000001	Lydos st.	1270.5	19	Autobusai	19	02
+555894	2-588	3009	A>B	Stotis–Lydos pl.–Salininkai	1370	1371	0.40000001	Lydos st.	1385.4	3.0999999	Salininkai	1395.2	19	Autobusai	19	02
+555894	2-588	3009	B>A	Salininkai–Lydos pl.–Stotis	1403	1405	-0.2	Pelesos st.	1427.8	3.0999999	Lydos st.	1417.3	19	Autobusai	19	02
 555701	2-2569	276	B>A	Salininkai–Lydos pl.–Stotis	406	406	-0.40000001	Mechanikų st.	407.89999	3.4000001	Lydos st.	420.60001	19	Autobusai	19	03
 555701	2-2569	276	A>B	Stotis–Lydos pl.–Salininkai	440	441	0.40000001	Stotis	440.39999	3.3	Salininkai	465.39999	19	Autobusai	19	03
 555701	2-2569	276	A>B	Stotis–Lydos pl.–Salininkai	519	520	0.40000001	Stotis	519.5	3.2	Salininkai	544.40002	19	Autobusai	19	03
@@ -483,6 +488,7 @@
 555977	2-10681	949	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	1093	1102	-0.80000001	Žemieji Paneriai	1128.5	9	Gedvydžių st.	1103.6	24	Autobusai	24	03
 555977	2-10681	949	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	1137	1140	-2.7	Ukmergės st.	1159	3.7	Vaduvos st.	1141.7	24	Autobusai	24	03
 555977	2-10681	949	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	1323	1327	-0.5	Ukmergės st.	1343.5	3.8	Vaduvos st.	1327.8	24	Autobusai	24	03
+555977	2-10681	949	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	1400	1404	-1.1	Takas	1426.6	4.4000001	Vaduvos st.	1405.4	24	Autobusai	24	03
 555718	2-1614	528	A>B	Fabijoniškės–Ukmergės g.–Žemieji Paneriai	453	454	0.30000001	Stasio Lozoraičio st.	462.89999	3.8	Vingio parkas	482.39999	24	Autobusai	24	04
 555718	2-1614	528	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	584	585	0.40000001	Valkininkų st.	584.5	4.3000002	Gedimino prospektas	602.90002	24	Autobusai	24	04
 555718	2-1614	528	B>A	Žemieji Paneriai–Ukmergės g.–Fabijoniškės	974	975	0.40000001	Valkininkų st.	974.40002	8.3999996	Studentų st.	1000.5	24	Autobusai	24	04
@@ -625,6 +631,7 @@
 555812	2-465	772	B>A	Stotis–Laisvės pr.–Santariškės	842	844	1.6	Savanorių prospektas	856.20001	3.3	Sietyno st.	869.5	2G	Autobusai	2G	13-ž
 555812	2-465	772	A>B	Santariškės–Laisvės pr.–Stotis	1170	1173	1.1	Kaimelio st.	1186.1	3.2	Vaikų ligoninė	1173.2	2G	Autobusai	2G	13-ž
 555812	2-465	772	A>B	Santariškės–Laisvės pr.–Stotis	1276	1279	-1.4	„Sparta“	1319	4.5	Viršuliškės	1302.2	2G	Autobusai	2G	13-ž
+555812	2-465	772	A>B	Santariškės–Laisvės pr.–Stotis	1380	1383	-2.9000001	Naujamiestis	1419.3	3.3	Vaikų ligoninė	1383.3	2G	Autobusai	2G	13-ž
 556106	2-230	4009	A>B	Santariškės–Laisvės pr.–Stotis	456	457	0.89999998	Jeruzalė	462.20001	5.1999998	Sietyno st.	491.60001	2G	Autobusai	2G	14
 556106	2-230	4009	B>A	Stotis–Laisvės pr.–Santariškės	515	515	-0.60000002	Naujamiestis	522.59998	5.5	Kalvarijos	564.79999	2G	Autobusai	2G	14
 556106	2-230	4009	A>B	Santariškės–Laisvės pr.–Stotis	984	982	-1.6	Vaikų ligoninė	982.59998	3.9000001	„Sparta“	1036.1	2G	Autobusai	2G	14
@@ -635,6 +642,7 @@
 555613	2-2373	532	B>A	Stotis–Laisvės pr.–Santariškės	680	679	-3.9000001	Santariškės	724.5	-1.5	Žemynos st.	712.09998	2G	Autobusai	2G	15
 555613	2-2373	532	B>A	Stotis–Laisvės pr.–Santariškės	795	795	-0.60000002	Lazdynai	813	4.5999999	Jeruzalė	845.20001	2G	Autobusai	2G	15
 555613	2-2373	532	B>A	Stotis–Laisvės pr.–Santariškės	1031	1030	-1	Stotis	1030.1	5.5999999	Kalvarijos	1085.5	2G	Autobusai	2G	15
+556157	2-1379	521	A>B	Santariškės–Laisvės pr.–Stotis	1363	1366	-2.5999999	„Sparta“	1404.9	4	Vaikų ligoninė	1367	2G	Autobusai	2G	15
 556060	2-1538	374	B>A	Stotis–Laisvės pr.–Santariškės	525	526	-0.80000001	Lazdynai	542.79999	3.8	Ateities st.	570.79999	2G	Autobusai	2G	16
 556060	2-1538	374	A>B	Santariškės–Laisvės pr.–Stotis	998	998	-0.40000001	Vaikų ligoninė	997.70001	8.8000002	Naujamiestis	1052.8	2G	Autobusai	2G	16
 556060	2-1538	374	B>A	Stotis–Laisvės pr.–Santariškės	1052	1060	7.8000002	Naujamiestis	1068.3	10.4	Kaimelio st.	1102.2	2G	Autobusai	2G	16
@@ -706,6 +714,7 @@
 556016	2-3098	958	A>B	Stotis–Pavilnys–Naujoji Vilnia	1138	1139	-0.2	Gervėčių st.	1145.3	4	Gamtininkų st.	1163	31	Autobusai	31	03
 556016	2-3098	958	B>A	Naujoji Vilnia–Pavilnys–Stotis	1213	1214	-1.8	Ribiškės	1240.9	3.2	Genių st.	1222	31	Autobusai	31	03
 556016	2-3098	958	A>B	Stotis–Pavilnys–Naujoji Vilnia	1261	1262	0.89999998	Stotis	1262.9	4.5	Gamtininkų st.	1285.5	31	Autobusai	31	03
+556016	2-3098	958	A>B	Stotis–Pavilnys–Naujoji Vilnia	1380	1381	0.40000001	Gervėčių st.	1386.3	4	Gamtininkų st.	1402	31	Autobusai	31	03
 555803	2-10567	3014	A>B	Stotis–Pavilnys–Naujoji Vilnia	352	352	-1.1	Linksmoji st.	387.79999	5.1999998	Dunojaus st.	366	31	Autobusai	31	04
 555600	2-1085	974	B>A	Naujoji Vilnia–Pavilnys–Stotis	315	316	-0.1	Ribiškės	344.5	3.0999999	Grigaičiai	326.39999	31	Autobusai	31	05
 555600	2-1085	974	A>B	Stotis–Pavilnys–Naujoji Vilnia	469	470	0.69999999	Grigaičiai	499.60001	3.4000001	Gamtininkų st.	493.39999	31	Autobusai	31	05
@@ -755,6 +764,7 @@
 555638	2-10423	981	A>B	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	1149	1150	-19.799999	Povilo Lukšio st.	1129.2	0.60000002	Jono Galvydžio st.	1152.2	33	Autobusai	33	03
 555638	2-10423	981	A>B	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	1255	1255	-9.6000004	Povilo Lukšio st.	1245.4	1.5	Jono Galvydžio st.	1259.1	33	Autobusai	33	03
 555638	2-10423	981	A>B	Šiaurės miestelis–Rinktinės–Sukilėlių g.–Guriai	1339	1340	-4.9000001	Gurių sodai	1368.7	0.60000002	Jono Galvydžio st.	1342.1	33	Autobusai	33	03
+555638	2-10423	981	B>A	Guriai–Sukilėlių–Rinktinės g.–Šiaurės miestelis	1380	1381	-3.7	Šiaurės miestelis	1408	1	Guriai	1384.3	33	Autobusai	33	03
 555578	2-2977	781	A>B	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	306	309	-3.0999999	Pramogų arena	332.29999	4.0999999	„Audėjas“	318.5	34	Autobusai	34	01-Ž
 555578	2-2977	781	A>B	Stotis–Olandų g.–Baltupiai–Jeruzalės g.–Visoriai	422	424	0	Rugių st.	463.79999	3.5999999	„Audėjas“	434	34	Autobusai	34	01-Ž
 555578	2-2977	781	B>A	Visoriai–Jeruzalės g –Baltupiai–Olandų g.–Stotis	482	483	-0.5	Mikalojaus Katkaus st.	516.40002	5	Kalvarijos	496.79999	34	Autobusai	34	01-Ž
@@ -795,6 +805,7 @@
 555694	2-10482	826	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1170	1173	-1.4	Gulbinų st.	1207.8	3.9000001	Kalvarijos	1185.6	36	Autobusai	36	01
 555694	2-10482	826	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1265	1267	0.5	Gulbinų st.	1303.8	5.0999999	Kalvarijos	1280.9	36	Autobusai	36	01
 555694	2-10482	826	B>A	Pagubė–Naujaneriai–Balsiai–Kalvarijų–Žalgirio g.	1310	1311	-3.5	Pramogų arena	1343.8	0.30000001	Gulbinų st.	1312.8	36	Autobusai	36	01
+555694	2-10482	826	B>A	Pagubė–Naujaneriai–Balsiai–Kalvarijų–Žalgirio g.	1401	1402	-3.5	Pramogų arena	1434.8	0.69999999	Krakiškės	1411	36	Autobusai	36	01
 555804	2-193	760	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1077	1080	-1	Naujaneriai	1115.8	3.5	Tauragnų st.	1082.8	36	Autobusai	36	02
 555804	2-193	760	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1225	1227	-0.40000001	Naujaneriai	1259.4	4	Kalvarijos	1240.3	36	Autobusai	36	02
 555804	2-193	760	A>B	Žalgirio–Kalvarijų g.–Balsiai–Naujaneriai–Pagubė	1321	1326	-0.2	Krakiškės	1353.1	4.1999998	Giedraičių st.	1326.3	36	Autobusai	36	02
@@ -968,6 +979,7 @@
 555905	2-10657	9311	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1035	1065	30.1	Studentų st.	1069.9	38.5	Liudviko Zamenhofo st.	1097.7	40	Autobusai	40	05
 555905	2-10657	9311	A>B	Fabijoniškės–S.Stanevičiaus g.–Centras	1071	1101	19.1	Alberto Goštauto st.	1121.7	29.9	Liudviko Zamenhofo st.	1102	40	Autobusai	40	05
 555905	2-10657	9311	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1106	1127	15.4	Takas	1144.3	20.9	Vašingtono aikštė	1126.9	40	Autobusai	40	05
+555905	2-10657	9311	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1398	1398	-3.5999999	Takas	1414	0.2	Šeškinė	1403.4	40	Autobusai	40	05
 556138	2-1571	9306	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	985	986	0.69999999	Studentų st.	990.40002	5.5	Liudviko Zamenhofo st.	1014.7	40	Autobusai	40	06
 556138	2-1571	9306	A>B	Fabijoniškės–S.Stanevičiaus g.–Centras	1024	1025	-0.2	Saltoniškės	1051	13.2	Alberto Goštauto st.	1068.6	40	Autobusai	40	06
 556138	2-1571	9306	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1059	1082	22	Ukmergės st.	1089.9	24.6	Liudviko Zamenhofo st.	1107.8	40	Autobusai	40	06
@@ -984,6 +996,7 @@
 556150	2-362	9319	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1128	1166	30	Takas	1180.9	37.900002	Vašingtono aikštė	1165.9	40	Autobusai	40	07
 556150	2-362	9319	A>B	Fabijoniškės–S.Stanevičiaus g.–Centras	1184	1188	1.1	Šeškinė	1207.7	3.4000001	Liudviko Zamenhofo st.	1188.5	40	Autobusai	40	07
 556150	2-362	9319	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1282	1283	0.2	Paberžės st.	1291	3.3	Liudviko Zamenhofo st.	1306.2	40	Autobusai	40	07
+556150	2-362	9319	A>B	Fabijoniškės–S.Stanevičiaus g.–Centras	1381	1382	-3.3	Šeškinė	1400.3	0.80000001	Liudviko Zamenhofo st.	1382.8	40	Autobusai	40	07
 556090	2-1476	9305	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	459	461	2.3	Vašingtono aikštė	461.29999	5.1999998	Liudviko Zamenhofo st.	486.10001	40	Autobusai	40	08
 556090	2-1476	9305	A>B	Fabijoniškės–S.Stanevičiaus g.–Centras	565	569	0.60000002	Šeškinė	589.59998	4	Liudviko Zamenhofo st.	570	40	Autobusai	40	08
 556090	2-1476	9305	B>A	Centras–S.Stanevičiaus g.–Fabijoniškės	1023	1038	14.4	Studentų st.	1042.2	22.299999	Liudviko Zamenhofo st.	1069.5	40	Autobusai	40	08
@@ -1032,6 +1045,7 @@
 555693	2-690	758	A>B	Stotis–Eišiškių pl.–Salininkai	1001	1000	-0.40000001	Aguonų st.	1005.1	3.7	„Sparta“	1013.3	42	Autobusai	42	03
 555693	2-690	758	B>A	Salininkai–Eišiškių pl.–Stotis	1109	1109	-4	„Sparta“	1130.4	0.69999999	Salininkai	1111	42	Autobusai	42	03
 555693	2-690	758	A>B	Stotis–Eišiškių pl.–Salininkai	1186	1186	-3.2	Dilgynė	1204.2	-0.5	Aguonų st.	1189.9	42	Autobusai	42	03
+555693	2-690	758	A>B	Stotis–Eišiškių pl.–Salininkai	1258	1257	-3.4000001	Dilgynė	1274	-0.69999999	Stotis	1257.3	42	Autobusai	42	03
 555871	2-160	428	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	901	901	0.1	Justiniškių žiedas	901.09998	4.5999999	Operos ir baleto teatras	936	43	Autobusai	43	02
 555871	2-160	428	A>B	Justiniškės–Šeškinė–Žaliasis tiltas–Centras	982	982	0.30000001	Šiaurinė st.	984.70001	8.8999996	Operos ir baleto teatras	1021.2	43	Autobusai	43	02
 555871	2-160	428	B>A	Centras–Žaliasis tiltas–Šeškinė–Justiniškės	1021	1022	1.7	Lukiškės	1023.8	18.5	Šiaurinė st.	1075.2	43	Autobusai	43	02
@@ -1168,6 +1182,7 @@
 555778	2-195	967	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	969	969	-0.69999999	Naujakiemio st.	975.40002	3.3	Neužmirštuolių st.	1024.7	49	Autobusai	49	04
 555778	2-195	967	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	1030	1030	-0.30000001	Ratilių st.	1033	8.6000004	Linkmenų st.	1072.1	49	Autobusai	49	04
 555778	2-195	967	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	1232	1233	0.60000002	Naujakiemio st.	1238.7	4.1999998	Linkmenų st.	1249.6	49	Autobusai	49	04
+555778	2-195	967	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	1347	1348	0.2	Naujakiemio st.	1353.4	3.2	Lazdynų seniūnija	1388	49	Autobusai	49	04
 555896	2-710	858	B>A	Bukčiai–Lazdynai–Žalgirio–Didlaukio–Ateities g.	403	403	-1.5	Baltupiai	449.60001	3.7	Lietuvos edukologijos universitetas	433.29999	49	Autobusai	49	05
 555896	2-710	858	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	466	467	0.40000001	Didlaukio st.	470.60001	5.6999998	Panorama	497.60001	49	Autobusai	49	05
 555896	2-710	858	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Bukčiai	953	954	-0.69999999	Didlaukio st.	956.5	3.5	Tauragnų st.	967.70001	49	Autobusai	49	05
@@ -1302,6 +1317,7 @@
 555746	2-2499	960	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	1056	1058	1.2	Didlaukio st.	1074.1	5.4000001	Antakalnis	1101.2	50	Autobusai	50	03
 555746	2-2499	960	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	1192	1191	-1.4	Akademijos st.	1194.7	3.0999999	Antakalnis	1229.9	50	Autobusai	50	03
 555746	2-2499	960	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	1283	1282	-1.3	Rugių st.	1292.4	4.5999999	Antakalnis	1322.4	50	Autobusai	50	03
+555746	2-2499	960	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	1376	1375	-1.8	Molėtų plentas	1379.4	3.7	Minties st.	1406.6	50	Autobusai	50	03
 555836	2-10647	816	A>B	Antakalnis–Didlaukio g.–Jeruzalė–Bajorai	374	377	2.2	Rugių st.	406.60001	4.0999999	Minties st.	388.10001	50	Autobusai	50	04
 555836	2-10647	816	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	418	419	0.40000001	Bajorų sodai	418.39999	6.5999999	Antakalnis	465.39999	50	Autobusai	50	04
 555836	2-10647	816	B>A	Bajorai–Jeruzalė–Didlaukio g.–Antakalnis	523	525	0.30000001	Didlaukio st.	540.29999	4.8000002	Antakalnis	567.59998	50	Autobusai	50	04
@@ -1456,6 +1472,7 @@
 555781	2-494	726	B>A	Santariškės–Fabijoniškės–Laisvės pr.–Lazdynai	1029	1031	0.40000001	Vilniaus rajono poliklinika	1054.2	4.3000002	Viršuliškės	1064.8	55	Autobusai	55	03
 555781	2-494	726	A>B	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	1088	1089	-3.4000001	Pal. Jurgio Matulaičio bažnyčia	1110.3	0.30000001	Oslo st.	1089.4	55	Autobusai	55	03
 555781	2-494	726	A>B	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	1241	1242	-3.2	Kalvarijos	1279.2	0.60000002	Oslo st.	1242.8	55	Autobusai	55	03
+555781	2-494	726	A>B	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	1353	1354	-3.9000001	Vaikų ligoninė	1396.6	0.89999998	Oslo st.	1355	55	Autobusai	55	03
 555997	2-2026	722	B>A	Santariškės–Fabijoniškės–Laisvės pr.–Lazdynai	976	976	-0.89999998	Sietyno st.	1010.7	3.5999999	Jonažolių st.	1032.1	55	Autobusai	55	04
 555997	2-2026	722	A>B	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	1155	1156	-4.9000001	Muzikų st.	1203.4	1	Oslo st.	1157.1	55	Autobusai	55	04
 555750	2-500	799	A>B	Lazdynai–Laisvės pr.–Fabijoniškės–Santariškės	388	389	-4.0999999	Žaliųjų Ežerų st.	433.10001	1.2	Oslo st.	390.29999	55	Autobusai	55	05
@@ -1480,6 +1497,7 @@
 555674	2-10356	9309	B>A	Centras–Konstitucijos pr.–Šeškinė–Fabijoniškės	1046	1050	4.5	Lukiškės	1051.7	11.8	Simono Stanevičiaus st.	1083.1	56	Autobusai	56	03
 555876	2-2182	9318	B>A	Centras–Konstitucijos pr.–Šeškinė–Fabijoniškės	1026	1025	-0.40000001	Lukiškės	1026.8	8.8000002	Pijaus Žadeikos st.	1065.5	56	Autobusai	56	04
 555876	2-2182	9318	A>B	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	1318	1318	-3.2	Operos ir baleto teatras	1342.2	0.2	Fabijoniškių žiedas	1318.8	56	Autobusai	56	04
+555876	2-2182	9318	B>A	Centras–Konstitucijos pr.–Šeškinė–Fabijoniškės	1355	1354	-3.3	Pijaus Žadeikos st.	1377.5	-1.1	Lukiškės	1354.9	56	Autobusai	56	04
 556093	2-10343	9310	A>B	Fabijoniškės–Šeškinė–Konstitucijos pr.–Centras	506	508	-3.3	Operos ir baleto teatras	535.5	1.4	Fabijoniškių žiedas	508	56	Autobusai	56	05
 555682	2-2849	190	B>A	Bajorai–Jeruzalė–Ateities g.–Fabijoniškės	546	548	0.80000001	Pijaus Žadeikos st.	567.70001	3.4000001	Akademijos st.	558.40002	57	Autobusai	57	01
 555682	2-2849	190	B>A	Bajorai–Jeruzalė–Ateities g.–Fabijoniškės	1313	1314	-0.60000002	Pijaus Žadeikos st.	1333.3	3.2	Akademijos st.	1325.3	57	Autobusai	57	01
@@ -1570,6 +1588,8 @@
 555837	2-2994	776	B>A	Saulėtekis–Ozo g.–Pašilaičiai	992	992	-0.5	Vilniaus universitetas	994.90002	3.8	Justiniškės	1027.6	5G	Autobusai	5G	11
 555837	2-2994	776	A>B	Pašilaičiai–Ozo g.–Saulėtekis	1040	1040	-0.80000001	Medeinos st.	1041.6	6.5	Lizdeikos st.	1076	5G	Autobusai	5G	11
 555837	2-2994	776	A>B	Pašilaičiai–Ozo g.–Saulėtekis	1265	1265	-3.2	Vilniaus universitetas	1293.6	-0.40000001	Taikos st.	1268.6	5G	Autobusai	5G	11
+555837	2-2994	776	A>B	Pašilaičiai–Ozo g.–Saulėtekis	1356	1357	-3.0999999	Gedimino technikos universitetas	1385.5	0.69999999	Skalvių st.	1357.6	5G	Autobusai	5G	11
+555837	2-2994	776	B>A	Saulėtekis–Ozo g.–Pašilaičiai	1398	1398	-4.1999998	Taikos st.	1423	0.5	Pramogų arena	1413.1	5G	Autobusai	5G	11
 555831	2-10682	4008	B>A	Saulėtekis–Ozo g.–Pašilaičiai	441	440	-0.5	Senoji plytinė	441.70001	3.9000001	Taikos st.	477.60001	5G	Autobusai	5G	12-ž
 555831	2-10682	4008	B>A	Saulėtekis–Ozo g.–Pašilaičiai	668	668	-0.1	Gedimino technikos universitetas	670.29999	5.0999999	Rygos st.	699.5	5G	Autobusai	5G	12-ž
 555831	2-10682	4008	B>A	Saulėtekis–Ozo g.–Pašilaičiai	947	948	1	Saulėtekis	953.09998	3.3	Justiniškės	979.70001	5G	Autobusai	5G	12-ž
@@ -1670,6 +1690,7 @@
 555710	2-31	951	B>A	Grigiškės–Lentvaris–Mūrinė Vokė–Lazdynai	835	834	-3.5999999	Ryto st.	867.90002	-0.80000001	Žalioji st.	835.90002	68	Autobusai	68	03
 555710	2-31	951	A>B	Lazdynai–Mūrinė Vokė–Lentvaris–Grigiškės	968	968	0.1	Lazdynų seniūnija	970.70001	4.1999998	Naujasis Lentvaris	1000.8	68	Autobusai	68	03
 555710	2-31	951	B>A	Grigiškės–Lentvaris–Mūrinė Vokė–Lazdynai	1007	1007	-0.69999999	Lentvaris	1016.4	4.4000001	Erfurto st.	1044.1	68	Autobusai	68	03
+555710	2-31	951	B>A	Grigiškės–Lentvaris–Mūrinė Vokė–Lazdynai	1369	1369	-3.4000001	Ąžuolo st.	1403.5	-0.1	Naujasis Lentvaris	1373.6	68	Autobusai	68	03
 555676	2-1341	944	B>A	Šiltnamių g.–Lazdynai–Žalgirio–Didlaukio–Ateities g.	474	475	0.69999999	Šiltnamių žiedas	474.79999	6.1999998	Linkmenų st.	509.60001	69	Autobusai	69	01-Ž
 555676	2-1341	944	A>B	Ateities–Didlaukio–Žalgirio g.–Lazdynai–Šiltnamių g.	562	564	1.4	Naujakiemio st.	570.5	5.5999999	Panorama	589.5	69	Autobusai	69	01-Ž
 555676	2-1341	944	B>A	Šiltnamių g.–Lazdynai–Žalgirio–Didlaukio–Ateities g.	735	736	0.80000001	Erfurto st.	742.79999	4.4000001	Linkmenų st.	768.79999	69	Autobusai	69	01-Ž
@@ -1727,6 +1748,8 @@
 555734	2-561	707	B>A	Žaliasis tiltas–Olandų–Parko g.	1018	1023	3.7	Lvovo st.	1025.7	7.1999998	Polocko st.	1039	6G	Autobusai	6G	05-Ž
 555734	2-561	707	A>B	Parko–Olandų g.–Žaliasis tiltas	1065	1069	0.40000001	Polocko st.	1083.5	3.5	Parko st.	1069.3	6G	Autobusai	6G	05-Ž
 555734	2-561	707	B>A	Žaliasis tiltas–Olandų–Parko g.	1252	1253	1	Žaliasis tiltas	1253.2	3.5999999	Rudens st.	1266.4	6G	Autobusai	6G	05-Ž
+555734	2-561	707	A>B	Parko–Olandų g.–Žaliasis tiltas	1288	1291	2.5	Genių st.	1294.5	4.4000001	Karaliaus Mindaugo tiltas	1317.2	6G	Autobusai	6G	05-Ž
+555734	2-561	707	B>A	Žaliasis tiltas–Olandų–Parko g.	1316	1319	2.4000001	Tremtinių st.	1339.2	3.2	Polocko st.	1327.8	6G	Autobusai	6G	05-Ž
 555768	2-352	775	B>A	Žaliasis tiltas–Olandų–Parko g.	896	897	0.80000001	Lvovo st.	898.59998	3.5	Polocko st.	909.29999	6G	Autobusai	6G	07
 555768	2-352	775	B>A	Žaliasis tiltas–Olandų–Parko g.	1203	1205	1.7	Žaliasis tiltas	1204.9	3.3	Parko st.	1231.4	6G	Autobusai	6G	07
 555914	2-2375	531	A>B	Parko–Olandų g.–Žaliasis tiltas	454	454	-0.89999998	Polocko st.	471.10001	7.6999998	Karaliaus Mindaugo tiltas	487.89999	6G	Autobusai	6G	08
@@ -2120,6 +2143,7 @@
 556085	3-10625	2684	A>B	Pašilaičiai–Lazdynai–Stotis	842	843	1.3	Pašilaičių žiedas	843.70001	3.9000001	Televizijos bokštas	863.5	16	Troleibusai	16	06
 556085	3-10625	2684	A>B	Pašilaičiai–Lazdynai–Stotis	1044	1045	0.40000001	Rygos st.	1050.1	5.3000002	Laisvės prospektas	1064.1	16	Troleibusai	16	06
 556085	3-10625	2684	B>A	Stotis–Lazdynai–Pašilaičiai	1090	1090	-5.4000001	Čiobiškio st.	1127	0.89999998	Aguonų st.	1094.4	16	Troleibusai	16	06
+556085	3-10625	2684	B>A	Stotis–Lazdynai–Pašilaičiai	1400	1404	-0.69999999	Žemynos st.	1437.7	3.4000001	Aguonų st.	1405.9	16	Troleibusai	16	06
 555763	3-2675	2685	A>B	Pašilaičiai–Lazdynai–Stotis	754	754	-0.69999999	Viršuliškės	763	3.8	„Sparta“	796.20001	16	Troleibusai	16	07
 555763	3-2675	2685	B>A	Stotis–Lazdynai–Pašilaičiai	997	998	0.5	Statybininkų st.	1008.5	4.6999998	Žemynos st.	1046.5	16	Troleibusai	16	07
 555763	3-2675	2685	A>B	Pašilaičiai–Lazdynai–Stotis	1051	1052	1.2	Pašilaičių žiedas	1052.6	4.0999999	Viršuliškės	1064.8	16	Troleibusai	16	07
@@ -2390,6 +2414,7 @@
 555852	3-729	1108	A>B	Antakalnis–Centras–Žemieji Paneriai	1016	1014	-3.8	Karaliaus Mindaugo tiltas	1030.7	1.5	Vilkpėdės st.	1056.4	4	Troleibusai	4	13
 555852	3-729	1108	B>A	Žemieji Paneriai–Centras–Antakalnis	1072	1070	-5	Petro Vileišio st.	1111	-2.3	Baldai	1074.6	4	Troleibusai	4	13
 555852	3-729	1108	A>B	Antakalnis–Centras–Žemieji Paneriai	1262	1260	-6.1999998	Vaduvos st.	1298.5	-1.8	Antakalnis	1262.4	4	Troleibusai	4	13
+555852	3-729	1108	A>B	Antakalnis–Centras–Žemieji Paneriai	1359	1359	-4.1999998	Vaduvos st.	1397.4	0	Antakalnis	1361.2	4	Troleibusai	4	13
 556107	3-2729	1492	A>B	Antakalnis–Centras–Žemieji Paneriai	458	456	-1.6	Antakalnio žiedas	456.60001	4.9000001	Operos ir baleto teatras	486.5	4	Troleibusai	4	14
 555815	3-3132	1634	B>A	Žemieji Paneriai–Centras–Antakalnis	396	399	1.4	Simono Konarskio st.	416.29999	3.5999999	Baldai	404.29999	4	Troleibusai	4	15
 555815	3-3132	1634	A>B	Antakalnis–Centras–Žemieji Paneriai	449	447	-1.8	Antakalnio žiedas	447.5	7.8000002	Operos ir baleto teatras	480.39999	4	Troleibusai	4	15
@@ -2609,6 +2634,7 @@
 555857	3-2108	2695	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1103	1101	-3.4000001	Ugniagesių st.	1130.7	-1.7	Teodoro Narbuto st.	1123.9	9	Troleibusai	9	06Ž
 555857	3-2108	2695	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	1255	1255	-3.8	Šiaurės miestelis	1281.1	0.40000001	Pasakų parkas	1255.7	9	Troleibusai	9	06Ž
 555857	3-2108	2695	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	1339	1337	-4.0999999	Minties st.	1362	-1.4	Pasakų parkas	1337.8	9	Troleibusai	9	06Ž
+555857	3-2108	2695	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1378	1377	-4.5999999	Atminties st.	1402.4	-1.1	Minties st.	1380	9	Troleibusai	9	06Ž
 555813	3-2453	1672	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	473	473	0.1	Karoliniškių poliklinika	477.60001	3.7	Šiaurės miestelis	511.60001	9	Troleibusai	9	08
 555813	3-2453	1672	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	872	873	0.89999998	Minties st.	878	4.5	Teodoro Narbuto st.	898.79999	9	Troleibusai	9	08
 555813	3-2453	1672	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	914	915	1	Ugniagesių st.	918	3.8	Šiaurės miestelis	949.59998	9	Troleibusai	9	08
@@ -2620,8 +2646,9 @@
 556041	3-1897	1115	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1005	1005	0.30000001	Povilo Lukšio st.	1005.6	4.3000002	Laisvės prospektas	1035.7	9	Troleibusai	9	09
 555885	3-783	1496	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	726	726	-1	Tuskulėnų rimties parkas	731.70001	5.6999998	Panorama	750	9	Troleibusai	9	10
 555885	3-783	1496	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1063	1062	-0.80000001	Europos aikštė	1075.5	5	Karoliniškių poliklinika	1097.6	9	Troleibusai	9	10
+555885	3-783	1496	A>B	Karoliniškės–Šeimyniškių g.–Šiaurės miestelis	1382	1382	-4.3000002	Šeimyniškių st.	1401.6	0.2	Pasakų parkas	1382.4	9	Troleibusai	9	10
 556065	3-1569	2623	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	468	467	0.1	Povilo Lukšio st.	468.29999	6.3000002	Nacionalinė dailės galerija	489	9	Troleibusai	9	11
 556065	3-1569	2623	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1039	1038	-0.89999998	Tuskulėnų rimties parkas	1044.8	5.1999998	Karoliniškių poliklinika	1073.8	9	Troleibusai	9	11
 556065	3-1569	2623	B>A	Šiaurės miestelis–Šeimyniškių g.–Karoliniškės	1127	1126	-1.6	„Žalgirio“ stadionas	1135.4	55.700001	Karoliniškių poliklinika	1211.3	9	Troleibusai	9	11
 
-(2623 rows affected)
+(2650 rows affected)
