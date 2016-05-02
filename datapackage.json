@@ -12,7 +12,7 @@
   "lineTerminator": "\r\n",
   "quoteChar": "\"",
   "skipInitialSpace": true,
-  "header": true
+  "header": true,
   "resources": [
     {
       "name": "rpt3",
