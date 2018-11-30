@@ -1,0 +1,4 @@
+﻿HResult 0xFFFFFFFF, Level 16, State 1
+SQL Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF]. 
+Sqlcmd: Error: Microsoft SQL Native Client : An error has occurred while establishing a connection to the server. When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections..
+Sqlcmd: Error: Microsoft SQL Native Client : Login timeout expired.
